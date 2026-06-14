@@ -67,7 +67,4 @@ export const Scripts: ModdedBattleScriptsData = {
 			if (baseLearnset) Object.assign(this.data.Learnsets['hoopamega'].learnset, baseLearnset);
 		}
 	},
-	calculatePP(move, ppUps) {
-		return move.noPPBoosts ? move.pp : Math.floor((move.pp / 5 + 1) * 4);
-	},
 };
