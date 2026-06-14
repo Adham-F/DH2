@@ -1,6 +1,26 @@
 export const Scripts: ModdedBattleScriptsData = {
 	inherit: 'gen7',
 	init() {
+		for (const i in this.data.Items) {
+			const item = this.data.Items[i];
+			if (item.gen > 7) {
+				this.modData('Items', i).gen = 7;
+			}
+			if (item.isNonstandard === 'Past' || item.isNonstandard === 'Future') {
+				this.modData('Items', i).isNonstandard = null;
+			}
+		}
+
+		for (const i in this.data.Pokedex) {
+			const species = this.data.Pokedex[i];
+			if (species.forme && (species.forme.startsWith('Galar') || species.forme.startsWith('Hisui') || species.forme.startsWith('Paldea'))) {
+				this.modData('Learnsets', i).learnset.return = ['7M'];
+				this.modData('Learnsets', i).learnset.frustration = ['7M'];
+				this.modData('Learnsets', i).learnset.toxic = ['7M'];
+				this.modData('Learnsets', i).learnset.hiddenpower = ['7M'];
+			}
+		}
+
 		for (const i in this.data.Moves) {
 			if (this.data.Moves[i].pp > 20) {
 				this.modData('Moves', i).pp = 20;
@@ -31,8 +51,9 @@ export const Scripts: ModdedBattleScriptsData = {
 
 		for (const id in this.data.Pokedex) {
 			const species = this.data.Pokedex[id];
-			if (species.num >= 810 || species.id === 'meltan' || species.id === 'melmetal') {
-				if (species.eggGroups[0] === 'Undiscovered') {
+			const isNewRegional = ['Galar', 'Hisui', 'Paldea'].includes(species.forme || '');
+			if (species.num >= 810 || species.id === 'meltan' || species.id === 'melmetal' || isNewRegional) {
+				if (species.eggGroups && species.eggGroups[0] === 'Undiscovered') {
 					this.modData('Pokedex', id).eggGroups = ['Amorphous'];
 				}
 				if (!this.data.Learnsets[id]?.learnset) continue;
@@ -54,8 +75,16 @@ export const Scripts: ModdedBattleScriptsData = {
 				if (!learnset.hiddenpower.includes('7M')) learnset.hiddenpower.push('7M');
 			}
 		}
-	},
-	calculatePP(move, ppUps) {
-		return move.noPPBoosts ? move.pp : Math.floor((move.pp / 5 + 1) * 4);
+
+		if (!this.data.Learnsets['zygardemega']) {
+			this.data.Learnsets['zygardemega'] = {learnset: {}};
+			const baseLearnset = this.modData('Learnsets', 'zygarde').learnset;
+			if (baseLearnset) Object.assign(this.data.Learnsets['zygardemega'].learnset, baseLearnset);
+		}
+		if (!this.data.Learnsets['hoopamega']) {
+			this.data.Learnsets['hoopamega'] = {learnset: {}};
+			const baseLearnset = this.modData('Learnsets', 'hoopa').learnset;
+			if (baseLearnset) Object.assign(this.data.Learnsets['hoopamega'].learnset, baseLearnset);
+		}
 	},
 };
