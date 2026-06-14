@@ -5084,12 +5084,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		doublesTier: "DOU",
 		natDexTier: "OU",
 	},
-	basculegionmale: {
+	basculegion: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU",
 	},
-	basculegionfemale: {
+	basculegionf: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU",

@@ -307,6 +307,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	raichumegax: {
 		name: "Raichu-Mega-X",
+		requiredItem: "Raichunite X",
 		baseSpecies: "Raichu",
 		forme: "Mega-X",
 		inherit: true,
@@ -318,6 +319,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	raichumegay: {
 		name: "Raichu-Mega-Y",
+		requiredItem: "Raichunite Y",
 		baseSpecies: "Raichu",
 		forme: "Mega-Y",
 		inherit: true,
@@ -433,6 +435,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	clefablemega: {
 		name: "Clefable-Mega",
+		requiredItem: "Clefablite",
 		baseSpecies: "Clefable",
 		forme: "Mega",
 		inherit: true,
@@ -807,6 +810,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	victreebelmega: {
 		name: "Victreebel-Mega",
+		requiredItem: "Victreebelite",
 		baseSpecies: "Victreebel",
 		forme: "Mega",
 		inherit: true,
@@ -1379,6 +1383,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	starmiemega: {
 		name: "Starmie-Mega",
+		requiredItem: "Starminite",
 		baseSpecies: "Starmie",
 		forme: "Mega",
 		inherit: true,
@@ -1711,6 +1716,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	dragonitemega: {
 		name: "Dragonite-Mega",
+		requiredItem: "Dragoninite",
 		baseSpecies: "Dragonite",
 		forme: "Mega",
 		inherit: true,
@@ -1784,6 +1790,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	meganiummega: {
 		name: "Meganium-Mega",
+		requiredItem: "Meganiumite",
 		baseSpecies: "Meganium",
 		forme: "Mega",
 		inherit: true,
@@ -1851,6 +1858,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	feraligatrmega: {
 		name: "Feraligatr-Mega",
+		requiredItem: "Feraligite",
 		baseSpecies: "Feraligatr",
 		forme: "Mega",
 		inherit: true,
@@ -2482,6 +2490,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	skarmorymega: {
 		name: "Skarmory-Mega",
+		requiredItem: "Skarmorite",
 		baseSpecies: "Skarmory",
 		forme: "Mega",
 		inherit: true,
@@ -3722,6 +3731,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	chimechomega: {
 		name: "Chimecho-Mega",
+		requiredItem: "Chimechite",
 		baseSpecies: "Chimecho",
 		forme: "Mega",
 		inherit: true,
@@ -3752,6 +3762,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	absolmegaz: {
 		name: "Absol-Mega-Z",
+		requiredItem: "Absolite Z",
 		baseSpecies: "Absol",
 		forme: "Mega-Z",
 		inherit: true,
@@ -4181,6 +4192,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	staraptormega: {
 		name: "Staraptor-Mega",
+		requiredItem: "Staraptite",
 		baseSpecies: "Staraptor",
 		forme: "Mega",
 		inherit: true,
@@ -4614,6 +4626,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	garchompmegaz: {
 		name: "Garchomp-Mega-Z",
+		requiredItem: "Garchompite Z",
 		baseSpecies: "Garchomp",
 		forme: "Mega-Z",
 		inherit: true,
@@ -4660,6 +4673,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	lucariomegaz: {
 		name: "Lucario-Mega-Z",
+		requiredItem: "Lucarionite Z",
 		baseSpecies: "Lucario",
 		forme: "Mega-Z",
 		inherit: true,
@@ -4933,6 +4947,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	froslassmega: {
 		name: "Froslass-Mega",
+		requiredItem: "Froslassite",
 		baseSpecies: "Froslass",
 		forme: "Mega",
 		inherit: true,
@@ -5056,6 +5071,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	heatranmega: {
 		name: "Heatran-Mega",
+		requiredItem: "Heatranite",
 		baseSpecies: "Heatran",
 		forme: "Mega",
 		inherit: true,
@@ -5123,6 +5139,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	darkraimega: {
 		name: "Darkrai-Mega",
+		requiredItem: "Darkranite",
 		baseSpecies: "Darkrai",
 		forme: "Mega",
 		inherit: true,
@@ -5214,6 +5231,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	emboarmega: {
 		name: "Emboar-Mega",
+		requiredItem: "Emboarite",
 		baseSpecies: "Emboar",
 		forme: "Mega",
 		inherit: true,
@@ -5473,6 +5491,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	excadrillmega: {
 		name: "Excadrill-Mega",
+		requiredItem: "Excadrite",
 		baseSpecies: "Excadrill",
 		forme: "Mega",
 		inherit: true,
@@ -5615,6 +5634,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	scolipedemega: {
 		name: "Scolipede-Mega",
+		requiredItem: "Scolipite",
 		baseSpecies: "Scolipede",
 		forme: "Mega",
 		inherit: true,
@@ -5794,6 +5814,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	scraftymega: {
 		name: "Scrafty-Mega",
+		requiredItem: "Scraftinite",
 		baseSpecies: "Scrafty",
 		forme: "Mega",
 		inherit: true,
@@ -6181,6 +6202,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	eelektrossmega: {
 		name: "Eelektross-Mega",
+		requiredItem: "Eelektrossite",
 		baseSpecies: "Eelektross",
 		forme: "Mega",
 		inherit: true,
@@ -6232,6 +6254,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	chandeluremega: {
 		name: "Chandelure-Mega",
+		requiredItem: "Chandelurite",
 		baseSpecies: "Chandelure",
 		forme: "Mega",
 		inherit: true,
@@ -6363,6 +6386,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	golurkmega: {
 		name: "Golurk-Mega",
+		requiredItem: "Golurkite",
 		baseSpecies: "Golurk",
 		forme: "Mega",
 		inherit: true,
@@ -6654,6 +6678,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	chesnaughtmega: {
 		name: "Chesnaught-Mega",
+		requiredItem: "Chesnaughtite",
 		baseSpecies: "Chesnaught",
 		forme: "Mega",
 		inherit: true,
@@ -6689,6 +6714,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	delphoxmega: {
 		name: "Delphox-Mega",
+		requiredItem: "Delphoxite",
 		baseSpecies: "Delphox",
 		forme: "Mega",
 		inherit: true,
@@ -6724,6 +6750,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	greninjamega: {
 		name: "Greninja-Mega",
+		requiredItem: "Greninjite",
 		baseSpecies: "Greninja",
 		forme: "Mega",
 		inherit: true,
@@ -6815,6 +6842,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	pyroarmega: {
 		name: "Pyroar-Mega",
+		requiredItem: "Pyroarite",
 		baseSpecies: "Pyroar",
 		forme: "Mega",
 		inherit: true,
@@ -6850,6 +6878,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	floettemega: {
 		name: "Floette-Mega",
+		requiredItem: "Floettite",
 		baseSpecies: "Floette",
 		forme: "Mega",
 		inherit: true,
@@ -7016,6 +7045,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	malamarmega: {
 		name: "Malamar-Mega",
+		requiredItem: "Malamarite",
 		baseSpecies: "Malamar",
 		forme: "Mega",
 		inherit: true,
@@ -7043,6 +7073,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	barbaraclemega: {
 		name: "Barbaracle-Mega",
+		requiredItem: "Barbaracite",
 		baseSpecies: "Barbaracle",
 		forme: "Mega",
 		inherit: true,
@@ -7070,6 +7101,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	dragalgemega: {
 		name: "Dragalge-Mega",
+		requiredItem: "Dragalgite",
 		baseSpecies: "Dragalge",
 		forme: "Mega",
 		inherit: true,
@@ -7161,6 +7193,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	hawluchamega: {
 		name: "Hawlucha-Mega",
+		requiredItem: "Hawluchanite",
 		baseSpecies: "Hawlucha",
 		forme: "Mega",
 		inherit: true,
@@ -7380,6 +7413,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	zygardemega: {
 		name: "Zygarde-Mega",
+		requiredItem: "Zygardite",
 		baseSpecies: "Zygarde",
 		forme: "Mega",
 		inherit: true,
@@ -7610,6 +7644,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	crabominablemega: {
 		name: "Crabominable-Mega",
+		requiredItem: "Crabominite",
 		baseSpecies: "Crabominable",
 		forme: "Mega",
 		inherit: true,
@@ -7917,6 +7952,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	golisopodmega: {
 		name: "Golisopod-Mega",
+		requiredItem: "Golisopite",
 		baseSpecies: "Golisopod",
 		forme: "Mega",
 		inherit: true,
@@ -8040,6 +8076,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	drampamega: {
 		name: "Drampa-Mega",
+		requiredItem: "Drampanite",
 		baseSpecies: "Drampa",
 		forme: "Mega",
 		inherit: true,
@@ -8251,6 +8288,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	magearnamega: {
 		name: "Magearna-Mega",
+		requiredItem: "Magearnite",
 		baseSpecies: "Magearna",
 		forme: "Mega",
 		inherit: true,
@@ -8310,6 +8348,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	zeraoramega: {
 		name: "Zeraora-Mega",
+		requiredItem: "Zeraorite",
 		baseSpecies: "Zeraora",
 		forme: "Mega",
 		inherit: true,
