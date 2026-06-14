@@ -1,6 +1,26 @@
 export const Scripts: ModdedBattleScriptsData = {
 	inherit: 'gen7',
 	init() {
+		for (const i in this.data.Items) {
+			const item = this.data.Items[i];
+			if (item.gen > 7) {
+				this.modData('Items', i).gen = 7;
+			}
+			if (item.isNonstandard === 'Past' || item.isNonstandard === 'Future') {
+				this.modData('Items', i).isNonstandard = null;
+			}
+		}
+
+		for (const i in this.data.Pokedex) {
+			const species = this.data.Pokedex[i];
+			if (species.forme && (species.forme.startsWith('Galar') || species.forme.startsWith('Hisui') || species.forme.startsWith('Paldea'))) {
+				this.modData('Learnsets', i).learnset.return = ['7M'];
+				this.modData('Learnsets', i).learnset.frustration = ['7M'];
+				this.modData('Learnsets', i).learnset.toxic = ['7M'];
+				this.modData('Learnsets', i).learnset.hiddenpower = ['7M'];
+			}
+		}
+
 		for (const i in this.data.Moves) {
 			if (this.data.Moves[i].pp > 20) {
 				this.modData('Moves', i).pp = 20;
