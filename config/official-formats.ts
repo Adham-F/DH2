@@ -1,4 +1,3 @@
-import { Formats as BadNBoosted} from '../data/mods/badnboosted/formats';
 
 export const Formats: FormatList = [
 		///////////////////////////////////////////////////////////////
@@ -126,7 +125,6 @@ export const Formats: FormatList = [
 		unbanlist: ['Yveltal','Walking Wake','Ursaluna-Bloodmoon','Ogerpon-Hearthflame','Urshifu-Single-Strike','Naganadel'],
 		teambuilderFormat: "National Dex",
 	},
-	...BadNBoosted,
 	{
 		name: "[Gen 9] Custom Game",
 
@@ -220,21 +218,6 @@ export const Formats: FormatList = [
 		mod: 'gen3',
 		ruleset: ['Standard', 'One Boost Passer Clause', 'Freeze Clause Mod'],
 		banlist: ['Uber', 'Smeargle + Ingrain', 'Sand Veil', 'Soundproof', 'Assist', 'Baton Pass + Block', 'Baton Pass + Mean Look', 'Baton Pass + Spider Web', 'Swagger'],
-	},
-	{
-		name: "[Gen 3] Orre Colosseum",
-		mod: 'gen3colosseum',
-		gameType: 'doubles',
-		ruleset: [
-			'Obtainable', 'Team Preview', 'Species Clause', 'Stadium Sleep Clause', 'Freeze Clause Mod', 'Max Team Size = 6', 'VGC Timer',
-			'Nickname Clause', 'Endless Battle Clause', 'Cancel Mod', 'Picked Team Size = 4', 'Exact HP Mod', 'Item Clause', 'Open Team Sheets',
-		],
-		banlist: ['Soul Dew', 'Deoxys-Defense', 'Deoxys-Attack', 'Deoxys-Speed', 'Restricted Legendary', 'Mythical'],
-		unbanlist: ['Latios', 'Latias', 'Wobbuffet', 'Wynaut'],
-		bestOfDefault: true,
-		onBegin() {
-			this.add('rule', 'Self-KO Clause: If your last Pok\u00e9mon faints to a self-KO move or effect, you will lose the battle');
-		},
 	},
 	{
 		name: "[Gen 3] Custom Game",
