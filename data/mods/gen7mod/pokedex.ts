@@ -8135,7 +8135,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		types: ["Normal", "Ground"],
 		abilities: { 0: "Scrappy" },
 	},
-	basculegionm: {
+	basculegion: {
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,

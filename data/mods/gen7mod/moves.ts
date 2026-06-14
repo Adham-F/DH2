@@ -15,7 +15,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		self: { boosts: { def: -1, spd: -1 } },
 	},
 	siphonsmash: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Siphon Smash",
 		basePower: 90,
@@ -31,7 +31,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		ignoreEvasion: true,
 	},
 	ionsaw: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Ion Saw",
 		basePower: 30,
@@ -47,7 +47,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 10, status: 'par' },
 	},
 	starfallkick: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Starfall Kick",
 		basePower: 100,
@@ -66,7 +66,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 30, volatileStatus: 'confusion' },
 	},
 	dividingblow: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Dividing Blow",
 		basePower: 140,
@@ -82,7 +82,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 100, boosts: { def: -2 } },
 	},
 	flarecommand: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Flare Command",
 		basePower: 100,
@@ -97,7 +97,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 10, status: 'brn' },
 	},
 	cycloneblitz: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Cyclone Blitz",
 		basePower: 90,
@@ -140,7 +140,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 30, volatileStatus: 'confusion' },
 	},
 	soulcharge: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Soul Charge",
 		basePower: 120,
@@ -156,7 +156,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 10, status: 'par' },
 	},
 	rootthrow: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Root Throw",
 		basePower: 60,
@@ -170,7 +170,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		shortDesc: "Usually goes first.",
 	},
 	megatonmash: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Megaton Mash",
 		basePower: 90,
@@ -185,7 +185,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 30, status: 'par' },
 	},
 	iceage: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Ice Age",
 		basePower: 130,
@@ -201,7 +201,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 10, status: 'frz' },
 	},
 	flurryfists: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Flurry Fists",
 		basePower: 40,
@@ -217,7 +217,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 10, self: { boosts: { atk: 1 } } },
 	},
 	toxinrush: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Toxin Rush",
 		basePower: 100,
@@ -232,7 +232,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondaries: [{ chance: 30, status: 'psn' }, { chance: 30, volatileStatus: 'flinch' }],
 	},
 	distortionstrike: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Distortion Strike",
 		basePower: 90,
@@ -247,7 +247,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondaries: [{ chance: 10, boosts: { def: -1 } }, { chance: 10, volatileStatus: 'confusion' }],
 	},
 	hardenedbash: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Hardened Bash",
 		basePower: 100,
@@ -263,7 +263,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 10, self: { boosts: { atk: 1 } } },
 	},
 	quickshelf: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Quick Shelf",
 		basePower: 90,
@@ -284,7 +284,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		},
 	},
 	monsoonslam: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Monsoon Slam",
 		basePower: 110,
@@ -299,7 +299,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 10, volatileStatus: 'confusion' },
 	},
 	rashcurrent: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Rash Current",
 		basePower: 90,
@@ -314,7 +314,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		critRatio: 2,
 	},
 	mysticdance: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Mystic Dance",
 		basePower: 0,
@@ -331,7 +331,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		beforeTurnCallback(pokemon) { /* custom Z effect not easily hardcoded in base, reset stats */ },
 	},
 	eclipsingvoid: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Eclipsing Void",
 		basePower: 110,
@@ -346,7 +346,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 30, boosts: { spd: -1 } },
 	},
 	bravado: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Bravado",
 		basePower: 70,
@@ -363,7 +363,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		},
 	},
 	crystalrush: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Crystal Rush",
 		basePower: 120,
@@ -378,7 +378,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		self: { boosts: { def: -1, spd: -1 } },
 	},
 	overswarm: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Overswarm",
 		basePower: 130,
@@ -393,7 +393,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		self: { boosts: { spa: -2 } },
 	},
 	borealisbeam: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Borealis Beam",
 		basePower: 110,
@@ -408,7 +408,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 10, status: 'frz' },
 	},
 	moltengrasp: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Molten Grasp",
 		basePower: 75,
@@ -426,7 +426,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		},
 	},
 	energyblast: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Energy Blast",
 		basePower: 100,
@@ -440,7 +440,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		shortDesc: "No additional effect. (Mega Launcher)",
 	},
 	matterbreak: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Matter Break",
 		basePower: 80,
@@ -454,7 +454,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		shortDesc: "Nearly always goes first.",
 	},
 	dragonarrow: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Dragon Arrow",
 		basePower: 90,
@@ -477,7 +477,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		},
 	},
 	excalibur: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Excalibur",
 		basePower: 120,
@@ -492,7 +492,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		critRatio: 2,
 	},
 	spiclingsow: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Spicling Sow",
 		basePower: 120,
@@ -507,7 +507,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		self: { boosts: { def: -1, spd: -1 } },
 	},
 	miasmashot: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Miasma Shot",
 		basePower: 60,
@@ -521,7 +521,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		shortDesc: "Usually goes first. (Mega Launcher)",
 	},
 	crackleslash: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Crackle Slash",
 		basePower: 90,
@@ -538,7 +538,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 10, status: 'par' },
 	},
 	constructingcrash: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Constructing Crash",
 		basePower: 130,
@@ -553,7 +553,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		self: { boosts: { atk: -1, def: -1 } },
 	},
 	swarmingfangs: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Swarming Fangs",
 		basePower: 85,
@@ -578,7 +578,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		},
 	},
 	particlesplit: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Particle Split",
 		basePower: 30,
@@ -593,7 +593,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		multihit: 3,
 	},
 	wyrmwind: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Wyrm Wind",
 		basePower: 110,
@@ -609,7 +609,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		onModifyMove(move) { if (['raindance', 'primordialsea'].includes(this.field.effectiveWeather())) move.accuracy = true; },
 	},
 	bodybash: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Body Bash",
 		basePower: 120,
@@ -625,7 +625,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 30, volatileStatus: 'flinch' },
 	},
 	hydroelectricity: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Hydroelectricity",
 		basePower: 90,
@@ -640,7 +640,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 30, status: 'par' },
 	},
 	breathsteal: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Breath Steal",
 		basePower: 75,
@@ -655,7 +655,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		drain: [1, 2],
 	},
 	benumbingbreak: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Benumbing Break",
 		basePower: 0,
@@ -670,7 +670,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		damageCallback(pokemon, target) { return this.clampIntRange(Math.floor(target.getUndynamaxedHP() / 2), 1); },
 	},
 	specterdart: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Specter Dart",
 		basePower: 90,
@@ -685,7 +685,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		overrideOffensiveStat: 'def',
 	},
 	morbidpull: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Morbid Pull",
 		basePower: 60,
@@ -703,7 +703,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		},
 	},
 	shiningspear: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Shining Spear",
 		basePower: 120,
@@ -717,7 +717,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		shortDesc: "No additional effect. (Mega Launcher)",
 	},
 	fielddestruction: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Field Destruction",
 		basePower: 150,
@@ -748,7 +748,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		},
 	},
 	cursingjealousy: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Cursing Jealousy",
 		basePower: 80,
@@ -763,7 +763,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		volatileStatus: 'embargo',
 	},
 	rileup: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Rile Up",
 		basePower: 0,
@@ -778,7 +778,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		boosts: { atk: 3 },
 	},
 	playfulfangs: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Playful Fangs",
 		basePower: 85,
@@ -793,7 +793,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 10, volatileStatus: 'confusion' },
 	},
 	draconicfangs: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Draconic Fangs",
 		basePower: 85,
@@ -808,7 +808,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 10, volatileStatus: 'flinch' },
 	},
 	rootrebound: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Root Rebound",
 		basePower: 70,
@@ -823,7 +823,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		selfSwitch: true,
 	},
 	electricalflare: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Electrical Flare",
 		basePower: 90,
@@ -838,7 +838,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 30, status: 'brn' },
 	},
 	bonebreaker: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Bone Breaker",
 		basePower: 80,
@@ -858,7 +858,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		},
 	},
 	featherbarrage: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Feather Barrage",
 		basePower: 25,
@@ -873,7 +873,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		multihit: [2, 5],
 	},
 	crushingmass: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Crushing Mass",
 		basePower: NaN,
@@ -896,7 +896,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		},
 	},
 	bloodblemish: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Blood Blemish",
 		basePower: 60,
@@ -911,7 +911,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		willCrit: true,
 	},
 	mindoverload: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Mind Overload",
 		basePower: 120,
@@ -926,7 +926,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 30, volatileStatus: 'confusion' },
 	},
 	meltingstrike: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Melting Strike",
 		basePower: 120,
@@ -942,7 +942,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 30, status: 'brn' },
 	},
 	smite: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Smite",
 		basePower: 120,
@@ -957,7 +957,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		volatileStatus: 'smackdown',
 	},
 	ghastlyfangs: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Ghastly Fangs",
 		basePower: 85,
@@ -972,7 +972,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 20, volatileStatus: 'confusion' },
 	},
 	steelyfangs: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Steely Fangs",
 		basePower: 85,
@@ -987,7 +987,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 20, boosts: { def: -1 } },
 	},
 	divinationbeam: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Divination Beam",
 		basePower: 110,
@@ -1002,7 +1002,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 30, boosts: { spd: -1 } },
 	},
 	machshot: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Mach Shot",
 		basePower: 60,
@@ -1017,7 +1017,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		willCrit: true,
 	},
 	pebblepunch: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Pebble Punch",
 		basePower: 75,
@@ -1032,7 +1032,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 100, sideCondition: 'stealthrock' },
 	},
 	spikingstrike: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Spiking Strike",
 		basePower: 75,
@@ -1047,7 +1047,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 100, sideCondition: 'spikes' },
 	},
 	secretskewer: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Secret Skewer",
 		basePower: 75,
@@ -1062,7 +1062,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondaries: [{ chance: 100, sideCondition: 'spikes' }, { chance: 20, volatileStatus: 'confusion' }],
 	},
 	furnace: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Furnace",
 		basePower: 160,
@@ -1078,7 +1078,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 50, status: 'brn' },
 	},
 	webspin: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Web Spin",
 		basePower: 75,
@@ -1093,7 +1093,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 100, sideCondition: 'stickyweb' },
 	},
 	drasticdownpour: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Drastic Downpour",
 		basePower: 130,
@@ -1108,7 +1108,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		self: { boosts: { spa: -2 } },
 	},
 	blossomblast: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Blossom Blast",
 		basePower: 80,
@@ -1122,7 +1122,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		shortDesc: "No additional effect. (Mega Launcher)",
 	},
 	moralemend: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Morale Mend",
 		basePower: 100,
@@ -1137,7 +1137,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		volatileStatus: 'partiallytrapped',
 	},
 	frostcalm: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Frost Calm",
 		basePower: 90,
@@ -1152,7 +1152,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		onHit(target) { target.clearBoosts(); this.add('-clearboost', target); },
 	},
 	limbshot: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Limb Shot",
 		basePower: 30,
@@ -1168,7 +1168,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 10, status: 'psn' },
 	},
 	dracocannon: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Draco Cannon",
 		basePower: 120,
@@ -1182,7 +1182,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		shortDesc: "No additional effect. (Mega Launcher)",
 	},
 	karma: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Karma",
 		basePower: 0,
@@ -1198,7 +1198,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		zMove: { effect: 'heal' },
 	},
 	gamebreaker: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Game Breaker",
 		basePower: 250,
@@ -1214,7 +1214,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		zMove: { boost: { atk: 3, def: 3, spa: 3, spd: 3, spe: 3 } },
 	},
 	sedimentblast: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Sediment Blast",
 		basePower: 95,
@@ -1228,7 +1228,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		shortDesc: "No additional effect. Hits adjacent foe(s).",
 	},
 	reapingdrain: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Reaping Drain",
 		basePower: 75,
@@ -1243,7 +1243,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		drain: [1, 2],
 	},
 	aquafang: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Aqua Fang",
 		basePower: 85,
@@ -1257,7 +1257,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		shortDesc: "No additional effect. (Fang)",
 	},
 	megasol: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Mega Sol",
 		basePower: 140,
@@ -1272,7 +1272,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		recoil: [33, 100],
 	},
 	emberspear: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Ember Spear",
 		basePower: 120,
@@ -1288,7 +1288,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		secondary: { chance: 30, status: 'brn' },
 	},
 	dragonimpact: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Dragon Impact",
 		basePower: 110,
@@ -1303,7 +1303,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		recoil: [33, 100],
 	},
 	jaggedfangs: {
-		noPPBoosts: true,
+
 		isNonstandard: null,
 		name: "Jagged Fangs",
 		basePower: 85,
@@ -1319,77 +1319,61 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	doubleslap: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 50,
 		accuracy: 95,
-		pp: 16,
 		category: "Physical",
 		shortDesc: "Hits 2 times in one turn.",
 		multihit: 2,
 	},
 	cometpunch: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 25,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 	megapunch: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 120,
 		accuracy: 85,
-		pp: 8,
 		category: "Physical",
 	},
 	firepunch: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 85,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 	icepunch: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 85,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 	thunderpunch: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 85,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 	guillotine: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 200,
 		accuracy: 50,
-		pp: 8,
 		category: "Physical",
 		ohko: false,
 	},
 	razorwind: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 120,
 		accuracy: 90,
-		pp: 12,
 		category: "Special",
 		shortDesc: "Raises user's Sp. Atk by 1 on turn 1. Hits turn 2.",
 		flags: { charge: 1, protect: 1, mirror: 1 },
@@ -1404,20 +1388,16 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	swordsdance: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	cut: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 60,
 		accuracy: 90,
-		pp: 12,
 		category: "Physical",
 		type: "Steel",
 		priority: 0,
@@ -1428,11 +1408,9 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	stomp: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 80,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 		type: "Ground",
 		priority: 0,
@@ -1441,278 +1419,218 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	furyattack: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 25,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 	horndrill: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 200,
 		accuracy: 50,
-		pp: 8,
 		category: "Physical",
 		ohko: false,
 	},
 	takedown: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 100,
 		accuracy: 95,
-		pp: 12,
 		category: "Physical",
 	},
 	twineedle: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 60,
 		accuracy: 95,
-		pp: 12,
 		category: "Physical",
 	},
 	aurorabeam: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 75,
 		accuracy: 100,
-		pp: 20,
 		category: "Special",
 	},
 	drillpeck: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 90,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 	submission: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 120,
 		accuracy: 85,
-		pp: 12,
 		category: "Physical",
 	},
 	strength: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 90,
 		accuracy: 90,
-		pp: 12,
 		category: "Physical",
 	},
 	absorb: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 40,
 		accuracy: 100,
-		pp: 20,
 		category: "Special",
 	},
 	megadrain: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 60,
 		accuracy: 100,
-		pp: 16,
 		category: "Special",
 	},
 	fissure: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 200,
 		accuracy: 50,
-		pp: 8,
 		category: "Physical",
 		ohko: false,
 	},
 	dig: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 120,
 		accuracy: 100,
-		pp: 12,
 		category: "Physical",
 	},
 	meditate: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 12,
 		category: "Status",
 		shortDesc: "Raises the user's Attack and Sp. Def by 1.",
 		boosts: { atk: 1, spd: 1 },
 	},
 	agility: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	doubleteam: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	minimize: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	barrier: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	reflect: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 12,
 		category: "Status",
 	},
 	lightscreen: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 12,
 		category: "Status",
 	},
 	eggbomb: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 120,
 		accuracy: 75,
-		pp: 12,
 		category: "Physical",
 	},
 	spikecannon: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 25,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 	amnesia: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	barrage: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 25,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 	skyattack: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 120,
 		accuracy: 100,
-		pp: 8,
 		category: "Physical",
 		shortDesc: "Lowers the user's Defense and Sp. Def by one.",
 		self: { boosts: { def: -1, spd: -1 } },
 	},
 	acidarmor: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	furyswipes: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 25,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 	hyperfang: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 100,
 		accuracy: 90,
-		pp: 12,
 		category: "Physical",
 	},
 	triattack: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 90,
 		accuracy: 100,
-		pp: 12,
 		category: "Special",
 	},
 	triplekick: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 30,
 		accuracy: 90,
-		pp: 12,
 		category: "Physical",
 	},
 	octazooka: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 75,
 		accuracy: 90,
-		pp: 12,
 		category: "Special",
 		shortDesc: "Has a 50% chance to lower the target's accuracy by 1 stage. (Mega Launcher)",
 		secondary: { chance: 50, boosts: { accuracy: -1 } },
@@ -1720,56 +1638,44 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	spikes: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	icywind: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 75,
 		accuracy: 95,
-		pp: 16,
 		category: "Special",
 	},
 	batonpass: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	irontail: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 100,
 		accuracy: 85,
-		pp: 12,
 		category: "Physical",
 	},
 	metalclaw: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 75,
 		accuracy: 95,
-		pp: 16,
 		category: "Physical",
 	},
 	revenge: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 70,
 		accuracy: 100,
-		pp: 12,
 		category: "Physical",
 		shortDesc: "Power doubles if user is burn/poison/paralyzed.",
 		onBasePower(basePower, pokemon) {
@@ -1778,74 +1684,58 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	armthrust: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 25,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 	tailglow: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	blazekick: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 95,
 		accuracy: 90,
-		pp: 12,
 		category: "Physical",
 	},
 	needlearm: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 90,
 		accuracy: 100,
-		pp: 12,
 		category: "Physical",
 	},
 	hypervoice: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 100,
 		accuracy: 100,
-		pp: 12,
 		category: "Special",
 	},
 	silverwind: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 75,
 		accuracy: 100,
-		pp: 8,
 		category: "Special",
 	},
 	cosmicpower: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 12,
 		category: "Status",
 	},
 	signalbeam: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 85,
 		accuracy: true,
-		pp: 12,
 		category: "Special",
 		shortDesc: "This move does not check accuracy. 10% chance to confuse. (Mega Launcher)",
 		secondary: { chance: 10, volatileStatus: 'confusion' },
@@ -1853,57 +1743,45 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	shadowpunch: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 85,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 	skyuppercut: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 95,
 		accuracy: 90,
-		pp: 16,
 		category: "Physical",
 	},
 	sheercold: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 200,
 		accuracy: 50,
-		pp: 8,
 		category: "Special",
 		ohko: false,
 	},
 	muddywater: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 95,
 		accuracy: 95,
-		pp: 12,
 		category: "Special",
 	},
 	irondefense: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	dragonclaw: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 90,
 		accuracy: 100,
-		pp: 12,
 		category: "Physical",
 		shortDesc: "High critical hit ratio. (Slicing)",
 		critRatio: 2,
@@ -1911,65 +1789,51 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	bulkup: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 12,
 		category: "Status",
 	},
 	mudshot: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 75,
 		accuracy: 95,
-		pp: 16,
 		category: "Special",
 	},
 	poisontail: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 100,
 		accuracy: 85,
-		pp: 12,
 		category: "Physical",
 	},
 	covet: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 60,
 		accuracy: 100,
-		pp: 20,
 		category: "Physical",
 	},
 	calmmind: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 12,
 		category: "Status",
 	},
 	dragondance: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 12,
 		category: "Status",
 	},
 	waterpulse: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 80,
 		accuracy: true,
-		pp: 12,
 		category: "Special",
 		shortDesc: "This move does not check accuracy. 20% chance to confuse. (Mega Launcher)",
 		flags: { protect: 1, mirror: 1, pulse: 1 },
@@ -1977,65 +1841,51 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	feint: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 60,
 		accuracy: 100,
-		pp: 12,
 		category: "Physical",
 	},
 	uturn: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 60,
 		accuracy: 100,
-		pp: 20,
 		category: "Physical",
 	},
 	payback: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 60,
 		accuracy: 100,
-		pp: 12,
 		category: "Physical",
 	},
 	toxicspikes: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	aurasphere: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 90,
 		accuracy: true,
-		pp: 16,
 		category: "Special",
 	},
 	rockpolish: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	xscissor: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 90,
 		accuracy: true,
-		pp: 16,
 		category: "Physical",
 		shortDesc: "This move does not check accuracy. High critical hit ratio. (Slicing)",
 		flags: { contact: 1, protect: 1, mirror: 1, slicing: 1 },
@@ -2043,69 +1893,55 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	dragonpulse: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 90,
 		accuracy: 100,
-		pp: 12,
 		category: "Special",
 	},
 	dragonrush: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 120,
 		accuracy: 100,
-		pp: 8,
 		category: "Physical",
 		shortDesc: "Lowers the user's Defense and Sp. Def by one.",
 		self: { boosts: { def: -1, spd: -1 } },
 	},
 	powergem: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 90,
 		accuracy: 100,
-		pp: 16,
 		category: "Special",
 	},
 	drainpunch: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 85,
 		accuracy: 100,
-		pp: 12,
 		category: "Physical",
 	},
 	nastyplot: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	avalanche: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 75,
 		accuracy: 95,
-		pp: 16,
 		category: "Physical",
 		shortDesc: "100% chance to lower the foe(s) Speed by 1 stage.",
 		secondary: { chance: 100, boosts: { spe: -1 } },
 	},
 	shadowclaw: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 80,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 		shortDesc: "High critical hit ratio. (Slicing)",
 		critRatio: 2,
@@ -2113,38 +1949,30 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	thunderfang: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 80,
 		accuracy: 95,
-		pp: 16,
 		category: "Physical",
 	},
 	icefang: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 80,
 		accuracy: 95,
-		pp: 16,
 		category: "Physical",
 	},
 	firefang: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 80,
 		accuracy: 95,
-		pp: 16,
 		category: "Physical",
 	},
 	psychocut: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 80,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 		shortDesc: "High critical hit ratio. (Slicing)",
 		critRatio: 2,
@@ -2152,31 +1980,25 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	zenheadbutt: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 95,
 		accuracy: 90,
-		pp: 16,
 		category: "Physical",
 	},
 	mirrorshot: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 60,
 		accuracy: 90,
-		pp: 12,
 		category: "Special",
 		shortDesc: "Always results in a critical hit.",
 		willCrit: true,
 	},
 	flashcannon: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 90,
 		accuracy: 100,
-		pp: 12,
 		category: "Special",
 		shortDesc: "10% chance to lower the target's Sp. Def by 1. (Mega Launcher)",
 		secondary: { chance: 10, boosts: { spd: -1 } },
@@ -2184,132 +2006,104 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	rockclimb: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 120,
 		accuracy: 85,
-		pp: 8,
 		category: "Physical",
 	},
 	stealthrock: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	ominouswind: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 75,
 		accuracy: 100,
-		pp: 8,
 		category: "Special",
 	},
 	quiverdance: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 12,
 		category: "Status",
 	},
 	coil: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 12,
 		category: "Status",
 	},
 	shellsmash: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	inferno: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 150,
 		accuracy: 50,
-		pp: 8,
 		category: "Special",
 	},
 	electroweb: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 75,
 		accuracy: 95,
-		pp: 16,
 		category: "Special",
 		shortDesc: "100% chance to lower the foe(s) Speed by 1 stage.",
 		secondary: { chance: 100, boosts: { spe: -1 } },
 	},
 	wildcharge: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 100,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 	dualchop: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 50,
 		accuracy: 90,
-		pp: 12,
 		category: "Physical",
 	},
 	heartstamp: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 80,
 		accuracy: 100,
-		pp: 12,
 		category: "Physical",
 	},
 	steamroller: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 80,
 		accuracy: 100,
-		pp: 12,
 		category: "Physical",
 		shortDesc: "20% chance to flinch the target.",
 		secondary: { chance: 20, volatileStatus: 'flinch' },
 	},
 	hurricane: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 120,
 		accuracy: 70,
-		pp: 8,
 		category: "Special",
 	},
 	glaciate: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 130,
 		accuracy: 85,
-		pp: 8,
 		category: "Special",
 		shortDesc: "Physical if user's Sp. Atk > Atk. 20% chance to lower foe(s) Speed by 1.",
 		onModifyMove(move, pokemon) { if (pokemon.getStat('spa', false, true) > pokemon.getStat('atk', false, true)) move.category = 'Special'; else move.category = 'Physical'; },
@@ -2317,103 +2111,81 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	paraboliccharge: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 75,
 		accuracy: 100,
-		pp: 12,
 		category: "Special",
 	},
 	drainingkiss: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 60,
 		accuracy: 100,
-		pp: 12,
 		category: "Special",
 	},
 	playrough: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 100,
 		accuracy: 90,
-		pp: 12,
 		category: "Physical",
 	},
 	geomancy: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: true,
-		pp: 8,
 		category: "Status",
 	},
 	oblivionwing: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 100,
 		accuracy: 100,
-		pp: 12,
 		category: "Special",
 	},
 	landswrath: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 120,
 		accuracy: 100,
-		pp: 12,
 		category: "Physical",
 	},
 	spiritbreak: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 80,
 		accuracy: 100,
-		pp: 12,
 		category: "Physical",
 	},
 	tripleaxel: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 30,
 		accuracy: 90,
-		pp: 12,
 		category: "Physical",
 	},
 	breakingswipe: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 75,
 		accuracy: 95,
-		pp: 16,
 		category: "Physical",
 		shortDesc: "100% chance to lower the foe(s) Attack by 1 stage.",
 		secondary: { chance: 100, boosts: { atk: -1 } },
 	},
 	supercellslam: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 130,
 		accuracy: 95,
-		pp: 8,
 		category: "Physical",
 	},
 	mistyexplosion: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 150,
 		accuracy: 100,
-		pp: 8,
 		category: "Special",
 		type: "Fairy",
 		priority: 0,
@@ -2422,49 +2194,39 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	chargebeam: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 60,
 		accuracy: 90,
-		pp: 12,
 		category: "Special",
 	},
 	darkestlariat: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 90,
 		accuracy: 100,
-		pp: 12,
 		category: "Physical",
 	},
 	dragonhammer: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 100,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 	dragonrage: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 0,
 		accuracy: 100,
-		pp: 12,
 		category: "Special",
 		shortDesc: "Does damage equal to 1/2 target's current HP.",
 		damageCallback(pokemon, target) { return this.clampIntRange(Math.floor(target.getUndynamaxedHP() / 2), 1); },
 	},
 	incinerate: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 65,
 		accuracy: 100,
-		pp: 16,
 		category: "Special",
 		shortDesc: "1.5x damage if foe holds an item. Removes item.",
 		onBasePower(basePower, source, target, move) {
@@ -2483,4180 +2245,24 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	nightslash: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 80,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 	snarl: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 60,
 		accuracy: 95,
-		pp: 16,
 		category: "Special",
 	},
 	throatchop: {
 		inherit: true,
-		noPPBoosts: true,
 		isNonstandard: null,
 		basePower: 90,
 		accuracy: 100,
-		pp: 16,
 		category: "Physical",
 	},
 
-	accelerock: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	acid: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	aciddownpour: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	acidspray: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	acrobatics: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	acupressure: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	aerialace: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	aeroblast: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	afteryou: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	aircutter: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	airslash: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	alloutpummeling: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	alluringvoice: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	allyswitch: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	anchorshot: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	ancientpower: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	appleacid: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	aquacutter: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	aquajet: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	aquaring: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	aquastep: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	aquatail: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	armorcannon: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	aromatherapy: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	aromaticmist: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	assist: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	assurance: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	astonish: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	astralbarrage: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	attackorder: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	attract: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	aurawheel: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	auroraveil: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	autotomize: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	axekick: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	babydolleyes: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	baddybad: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	banefulbunker: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	barbbarrage: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	beakblast: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	beatup: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	behemothbash: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	behemothblade: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	belch: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	bellydrum: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	bestow: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	bide: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	bind: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	bite: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	bitterblade: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	bittermalice: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	blackholeeclipse: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	blastburn: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	blazingtorque: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	bleakwindstorm: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	blizzard: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	block: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	bloodmoon: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	bloomdoom: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	blueflare: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	bodyslam: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	boltbeak: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	boltstrike: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	boneclub: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	bonemerang: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	bonerush: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	boomburst: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	bounce: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	bouncybubble: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	branchpoke: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	bravebird: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	breakneckblitz: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	brickbreak: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	brine: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	brutalswing: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	bubble: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	bubblebeam: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	bugbite: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	bugbuzz: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	bulldoze: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	bulletpunch: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	bulletseed: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	burningbulwark: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	burningjealousy: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	burnup: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	buzzybuzz: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	camouflage: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	captivate: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	catastropika: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	ceaselessedge: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	celebrate: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	charge: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	charm: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	chatter: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	chillingwater: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	chillyreception: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	chipaway: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	chloroblast: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	circlethrow: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	clamp: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	clangingscales: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	clangoroussoul: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	clangoroussoulblaze: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	clearsmog: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	closecombat: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	coaching: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	collisioncourse: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	combattorque: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	comeuppance: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	confide: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	confuseray: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	confusion: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	constrict: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	continentalcrush: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	conversion: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	conversion2: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	copycat: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	coreenforcer: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	corkscrewcrash: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	corrosivegas: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	cottonguard: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	cottonspore: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	counter: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	courtchange: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	crabhammer: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	craftyshield: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	crosschop: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	crosspoison: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	crunch: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	crushclaw: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	crushgrip: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	curse: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	darkpulse: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	darkvoid: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	dazzlinggleam: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	decorate: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	defendorder: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	defensecurl: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	defog: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	destinybond: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	detect: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	devastatingdrake: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	diamondstorm: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	direclaw: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	disable: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	disarmingvoice: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	discharge: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	dive: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	dizzypunch: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	doodle: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	doomdesire: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	doubleedge: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	doublehit: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	doubleironbash: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	doublekick: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	doubleshock: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	dracometeor: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	dragonascent: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	dragonbreath: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	dragoncheer: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	dragondarts: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	dragonenergy: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	dragontail: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	dreameater: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	drillrun: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	drumbeating: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	dualwingbeat: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	dynamaxcannon: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	dynamicpunch: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	earthpower: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	earthquake: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	echoedvoice: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	eerieimpulse: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	eeriespell: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	electricterrain: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	electrify: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	electroball: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	electrodrift: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	electroshot: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	embargo: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	ember: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	encore: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	endeavor: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	endure: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	energyball: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	entrainment: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	eruption: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	esperwing: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	eternabeam: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	expandingforce: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	explosion: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	extrasensory: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	extremeevoboost: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	extremespeed: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	facade: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	fairylock: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	fairywind: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	fakeout: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	faketears: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	falsesurrender: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	falseswipe: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	featherdance: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	feintattack: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	fellstinger: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	ficklebeam: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	fierydance: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	fierywrath: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	filletaway: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	finalgambit: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	fireblast: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	firelash: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	firepledge: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	firespin: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	firstimpression: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	fishiousrend: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	flail: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	flameburst: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	flamecharge: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	flamethrower: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	flamewheel: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	flareblitz: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	flash: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	flatter: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	fleurcannon: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	fling: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	flipturn: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	floatyfall: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	floralhealing: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	flowershield: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	flowertrick: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	fly: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	flyingpress: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	focusblast: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	focusenergy: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	focuspunch: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	followme: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	forcepalm: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	foresight: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	forestscurse: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	foulplay: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	freezedry: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	freezeshock: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	freezingglare: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	freezyfrost: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	frenzyplant: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	frostbreath: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	frustration: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	furycutter: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	fusionbolt: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	fusionflare: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	futuresight: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	gastroacid: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	geargrind: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	gearup: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	genesissupernova: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	gigadrain: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	gigaimpact: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gigatonhammer: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gigavolthavoc: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	glaciallance: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	glaiverush: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	glare: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	glitzyglow: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	gmaxbefuddle: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxcannonade: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	gmaxcentiferno: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxchistrike: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxcuddle: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxdepletion: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxdrumsolo: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxfinale: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxfireball: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxfoamburst: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxgoldrush: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxgravitas: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxhydrosnipe: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxmalodor: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxmeltdown: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxoneblow: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxrapidflow: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxreplenish: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxresonance: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxsandblast: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxsmite: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxsnooze: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxsteelsurge: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxstonesurge: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gmaxstunshock: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	gmaxsweetness: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	gmaxtartness: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	gmaxterror: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	gmaxvinelash: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	gmaxvolcalith: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	gmaxvoltcrash: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	gmaxwildfire: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	gmaxwindrage: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	grassknot: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	grasspledge: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	grasswhistle: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	grassyglide: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	grassyterrain: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	gravapple: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	gravity: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	growl: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	growth: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	grudge: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	guardianofalola: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	guardsplit: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	guardswap: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	gunkshot: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	gust: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	gyroball: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	hail: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	hammerarm: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	happyhour: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	harden: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	hardpress: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	haze: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	headbutt: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	headcharge: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	headlongrush: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	headsmash: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	healbell: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	healblock: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	healingwish: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	healorder: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	healpulse: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	heartswap: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	heatcrash: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	heatwave: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	heavyslam: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	helpinghand: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	hex: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	hiddenpower: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowerbug: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowerdark: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowerdragon: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowerelectric: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowerfighting: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowerfire: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowerflying: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowerghost: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowergrass: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowerground: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowerice: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowerpoison: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowerpsychic: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowerrock: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowersteel: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hiddenpowerwater: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	highhorsepower: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	highjumpkick: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	holdback: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	holdhands: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	honeclaws: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hornattack: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	hornleech: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	howl: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	hydrocannon: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	hydropump: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	hydrosteam: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	hydrovortex: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	hyperbeam: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	hyperdrill: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	hyperspacefury: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	hyperspacehole: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	hypnosis: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	iceball: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	icebeam: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	iceburn: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	icehammer: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	iceshard: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	icespinner: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	iciclecrash: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	iciclespear: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	imprison: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	infernalparade: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	infernooverdrive: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	infestation: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	ingrain: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	instruct: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	iondeluge: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	ironhead: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	ivycudgel: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	jawlock: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	jetpunch: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	judgment: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	jumpkick: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	junglehealing: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	karatechop: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	kinesis: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	kingsshield: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	knockoff: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	kowtowcleave: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	laserfocus: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	lashout: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	lastresort: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	lastrespects: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	lavaplume: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	leafage: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	leafblade: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	leafstorm: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	leaftornado: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	leechlife: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	leechseed: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	leer: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	letssnuggleforever: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	lick: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	lifedew: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	lightofruin: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	lightthatburnsthesky: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	liquidation: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	lockon: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	lovelykiss: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	lowkick: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	lowsweep: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	luckychant: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	luminacrash: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	lunarblessing: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	lunardance: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	lunge: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	lusterpurge: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	machpunch: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	magicalleaf: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	magicaltorque: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	magiccoat: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	magicpowder: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	magicroom: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	magmastorm: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	magnetbomb: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	magneticflux: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	magnetrise: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	magnitude: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	makeitrain: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	maliciousmoonsault: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	malignantchain: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	matblock: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	matchagotcha: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	maxairstream: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxdarkness: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxflare: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxflutterby: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxgeyser: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxguard: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxhailstorm: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxknuckle: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxlightning: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxmindstorm: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxooze: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxovergrowth: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxphantasm: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxquake: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxrockfall: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxstarfall: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxsteelspike: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxstrike: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	maxwyrmwind: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	meanlook: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	mefirst: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	megahorn: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	megakick: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	memento: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	menacingmoonrazemaelstrom: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	metalburst: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	metalsound: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	meteorassault: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	meteorbeam: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	meteormash: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	metronome: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	mightycleave: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	milkdrink: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	mimic: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	mindblown: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	mindreader: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	miracleeye: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	mirrorcoat: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	mirrormove: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	mist: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	mistball: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	mistyterrain: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	moonblast: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	moongeistbeam: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	moonlight: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	morningsun: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	mortalspin: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	mountaingale: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	mudbomb: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	mudslap: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	mudsport: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	multiattack: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	mysticalfire: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	mysticalpower: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	naturalgift: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	naturepower: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	naturesmadness: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	neverendingnightmare: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	nightdaze: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	nightmare: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	nightshade: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	nihillight: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	nobleroar: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	noretreat: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	noxioustorque: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	nuzzle: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	obstruct: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	oceanicoperetta: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	octolock: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	odorsleuth: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	orderup: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	originpulse: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	outrage: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	overdrive: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	overheat: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	painsplit: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	partingshot: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	payday: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	peck: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	perishsong: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	petalblizzard: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	petaldance: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	phantomforce: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	photongeyser: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	pikapapow: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	pinmissile: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	plasmafists: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	playnice: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	pluck: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	poisonfang: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	poisongas: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	poisonjab: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	poisonpowder: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	poisonsting: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	pollenpuff: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	poltergeist: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	populationbomb: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	pounce: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	pound: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	powder: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	powdersnow: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	powershift: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	powersplit: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	powerswap: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	powertrick: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	powertrip: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	poweruppunch: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	powerwhip: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	precipiceblades: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	present: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	prismaticlaser: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	protect: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	psybeam: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	psyblade: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	psychic: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	psychicfangs: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	psychicnoise: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	psychicterrain: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	psychoboost: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	psychoshift: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	psychup: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	psyshieldbash: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	psyshock: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	psystrike: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	psywave: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	pulverizingpancake: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	punishment: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	purify: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	pursuit: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	pyroball: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	quash: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	quickattack: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	quickguard: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	rage: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	ragefist: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	ragepowder: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	ragingbull: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	ragingfury: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	raindance: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	rapidspin: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	razorleaf: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	razorshell: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	recover: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	recycle: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	reflecttype: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	refresh: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	relicsong: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	rest: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	retaliate: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	return: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	revelationdance: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	reversal: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	revivalblessing: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	risingvoltage: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	roar: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	roaroftime: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	rockblast: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	rockslide: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	rocksmash: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	rockthrow: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	rocktomb: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	rockwrecker: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	roleplay: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	rollingkick: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	rollout: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	roost: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	rototiller: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	round: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	ruination: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	sacredfire: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	sacredsword: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	safeguard: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	saltcure: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	sandattack: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	sandsearstorm: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	sandstorm: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	sandtomb: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	sappyseed: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	savagespinout: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	scald: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	scaleshot: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	scaryface: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	scorchingsands: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	scratch: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	screech: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	searingshot: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	searingsunrazesmash: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	secretpower: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	secretsword: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	seedbomb: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	seedflare: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	seismictoss: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	selfdestruct: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	shadowball: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	shadowbone: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	shadowforce: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	shadowsneak: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	sharpen: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	shatteredpsyche: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	shedtail: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	shellsidearm: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	shelltrap: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	shelter: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	shiftgear: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	shockwave: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	shoreup: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	silktrap: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	simplebeam: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	sing: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	sinisterarrowraid: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	sizzlyslide: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	sketch: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	skillswap: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	skittersmack: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	skullbash: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	skydrop: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	slackoff: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	slam: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	slash: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	sleeppowder: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	sleeptalk: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	sludge: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	sludgebomb: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	sludgewave: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	smackdown: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	smartstrike: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	smellingsalts: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	smog: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	smokescreen: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	snaptrap: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	snatch: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	snipeshot: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	snore: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	snowscape: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	soak: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	softboiled: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	solarbeam: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	solarblade: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	sonicboom: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	soulstealing7starstrike: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	spacialrend: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	spark: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	sparklingaria: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	sparklyswirl: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	spectralthief: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	speedswap: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	spicyextract: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	spiderweb: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	spikyshield: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	spinout: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	spiritshackle: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	spite: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	spitup: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	splash: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	splinteredstormshards: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	splishysplash: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	spore: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	spotlight: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	springtidestorm: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	steameruption: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	steelbeam: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	steelroller: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	steelwing: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	stickyweb: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	stockpile: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	stokedsparksurfer: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	stompingtantrum: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	stoneaxe: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	stoneedge: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	storedpower: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	stormthrow: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	strangesteam: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	strengthsap: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	stringshot: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	struggle: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	strugglebug: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	stuffcheeks: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	stunspore: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	substitute: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	subzeroslammer: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	suckerpunch: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	sunnyday: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	sunsteelstrike: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	superfang: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	superpower: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	supersonic: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	supersonicskystrike: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	surf: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	surgingstrikes: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	swagger: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	swallow: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	sweetkiss: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	sweetscent: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	swift: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	switcheroo: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	synchronoise: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	synthesis: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	syrupbomb: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	tachyoncutter: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	tackle: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	tailslap: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	tailwhip: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	tailwind: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	takeheart: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	tarshot: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	taunt: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	tearfullook: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	teatime: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	technoblast: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	tectonicrage: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	teeterdance: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	telekinesis: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	teleport: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	temperflare: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	terablast: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	terastarstorm: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	terrainpulse: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	thief: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	thousandarrows: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	thousandwaves: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	thrash: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	thunder: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	thunderbolt: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	thundercage: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	thunderclap: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	thunderouskick: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	thundershock: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	thunderwave: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	tickle: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	tidyup: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	topsyturvy: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	torchsong: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	torment: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	toxic: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	toxicthread: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	trailblaze: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	transform: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	trick: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	trickortreat: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	trickroom: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	triplearrows: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	tripledive: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	tropkick: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	trumpcard: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	twinbeam: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	twinkletackle: {
-		inherit: true,
-		pp: 1,
-		noPPBoosts: true,
-	},
-	twister: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	upperhand: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	uproar: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	vacuumwave: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	vcreate: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	veeveevolley: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	venomdrench: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	venoshock: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	victorydance: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	vinewhip: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	visegrip: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	vitalthrow: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	voltswitch: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	volttackle: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	wakeupslap: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	waterfall: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	watergun: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	waterpledge: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	watershuriken: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	watersport: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	waterspout: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	wavecrash: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	weatherball: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	whirlpool: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	whirlwind: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	wickedblow: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	wickedtorque: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	wideguard: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	wildboltstorm: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	willowisp: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	wingattack: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	wish: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	withdraw: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	wonderroom: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	woodhammer: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	workup: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	worryseed: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	wrap: {
-		inherit: true,
-		pp: 20,
-		noPPBoosts: true,
-	},
-	wringout: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	yawn: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	zapcannon: {
-		inherit: true,
-		pp: 8,
-		noPPBoosts: true,
-	},
-	zingzap: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	zippyzap: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	paleowave: {
-		inherit: true,
-		pp: 16,
-		noPPBoosts: true,
-	},
-	shadowstrike: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
-	polarflare: {
-		inherit: true,
-		pp: 12,
-		noPPBoosts: true,
-	},
 };
