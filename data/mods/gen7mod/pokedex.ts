@@ -6960,7 +6960,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		gen: 7,
 		baseStats: { hp: 74, atk: 48, def: 76, spa: 83, spd: 81, spe: 104 },
 		types: ["Psychic"],
-		abilities: { 0: "Keen Eye", 1: "Infiltrator", H: "Pranskter" },
+		abilities: { 0: "Keen Eye", 1: "Infiltrator", H: "Prankster" },
 	},
 	meowsticf: {
 		inherit: true,
