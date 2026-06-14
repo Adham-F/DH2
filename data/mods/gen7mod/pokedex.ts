@@ -24,6 +24,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Thick Fat", 1: "Chlorophyll", H: "Effect Spore" },
 	},
 	venusaurmega: {
+		name: "Venusaur-Mega",
+		baseSpecies: "Venusaur",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -56,6 +59,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Flame Body", 1: "Flash Fire", H: "Solar Power" },
 	},
 	charizardmegax: {
+		name: "Charizard-Mega-X",
+		baseSpecies: "Charizard",
+		forme: "Mega-X",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -64,6 +70,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Tough Claws" },
 	},
 	charizardmegay: {
+		name: "Charizard-Mega-Y",
+		baseSpecies: "Charizard",
+		forme: "Mega-Y",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -96,6 +105,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Mega Launcher", 1: "Shell Armor", H: "Rain Dish" },
 	},
 	blastoisemega: {
+		name: "Blastoise-Mega",
+		baseSpecies: "Blastoise",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -152,6 +164,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Swarm", 1: "Levitate", H: "Adaptability" },
 	},
 	beedrillmega: {
+		name: "Beedrill-Mega",
+		baseSpecies: "Beedrill",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -184,6 +199,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Keen Eye", 1: "Infiltrator", H: "No Guard" },
 	},
 	pidgeotmega: {
+		name: "Pidgeot-Mega",
+		baseSpecies: "Pidgeot",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -288,6 +306,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Static", 1: "Lightning Rod", H: "Adaptability" },
 	},
 	raichumegax: {
+		name: "Raichu-Mega-X",
+		baseSpecies: "Raichu",
+		forme: "Mega-X",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -296,6 +317,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Electric Surge" },
 	},
 	raichumegay: {
+		name: "Raichu-Mega-Y",
+		baseSpecies: "Raichu",
+		forme: "Mega-Y",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -408,6 +432,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Magic Guard", 1: "Friend Guard", H: "Magic Bounce" },
 	},
 	clefablemega: {
+		name: "Clefable-Mega",
+		baseSpecies: "Clefable",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -720,6 +747,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Synchronize", 1: "Magic Guard", H: "Trace" },
 	},
 	alakazammega: {
+		name: "Alakazam-Mega",
+		baseSpecies: "Alakazam",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -776,6 +806,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Chlorophyll", 1: "Gluttony", H: "Poison Point" },
 	},
 	victreebelmega: {
+		name: "Victreebel-Mega",
+		baseSpecies: "Victreebel",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -904,6 +937,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Regenerator", 1: "Oblivious", H: "Unaware" },
 	},
 	slowbromega: {
+		name: "Slowbro-Mega",
+		baseSpecies: "Slowbro",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -1056,6 +1092,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Levitate" },
 	},
 	gengarmega: {
+		name: "Gengar-Mega",
+		baseSpecies: "Gengar",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -1280,6 +1319,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Early Bird", 1: "Scrappy", H: "Inner Focus" },
 	},
 	kangaskhanmega: {
+		name: "Kangaskhan-Mega",
+		baseSpecies: "Kangaskhan",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -1336,6 +1378,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Analytic", 1: "Natural Cure", H: "Tinted Lens" },
 	},
 	starmiemega: {
+		name: "Starmie-Mega",
+		baseSpecies: "Starmie",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -1400,6 +1445,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Hyper Cutter", 1: "Mold Breaker", H: "Moxie" },
 	},
 	pinsirmega: {
+		name: "Pinsir-Mega",
+		baseSpecies: "Pinsir",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -1456,6 +1504,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Intimidate", 1: "Moxie", H: "Mold Breaker" },
 	},
 	gyaradosmega: {
+		name: "Gyarados-Mega",
+		baseSpecies: "Gyarados",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -1568,6 +1619,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Rock Head", 1: "Pressure", H: "Unnerve" },
 	},
 	aerodactylmega: {
+		name: "Aerodactyl-Mega",
+		baseSpecies: "Aerodactyl",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -1656,6 +1710,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Inner Focus", 1: "Multiscale", H: "Pressure" },
 	},
 	dragonitemega: {
+		name: "Dragonite-Mega",
+		baseSpecies: "Dragonite",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -1672,6 +1729,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Pressure", H: "Unnerve" },
 	},
 	mewtwomegax: {
+		name: "Mewtwo-Mega-X",
+		baseSpecies: "Mewtwo",
+		forme: "Mega-X",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -1680,6 +1740,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Neuroforce", H: "Adaptability" },
 	},
 	mewtwomegay: {
+		name: "Mewtwo-Mega-Y",
+		baseSpecies: "Mewtwo",
+		forme: "Mega-Y",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -1720,6 +1783,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Overgrow", 1: "Flower Veil", H: "Frisk" },
 	},
 	meganiummega: {
+		name: "Meganium-Mega",
+		baseSpecies: "Meganium",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -1784,6 +1850,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Torrent", 1: "Tough Claws", H: "Sheer Force" },
 	},
 	feraligatrmega: {
+		name: "Feraligatr-Mega",
+		baseSpecies: "Feraligatr",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -1960,6 +2029,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Static", 1: "Mold Breaker", H: "Lightning Rod" },
 	},
 	ampharosmega: {
+		name: "Ampharos-Mega",
+		baseSpecies: "Ampharos",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -2200,6 +2272,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Rock Head", 1: "Sturdy", H: "Filter" },
 	},
 	steelixmega: {
+		name: "Steelix-Mega",
+		baseSpecies: "Steelix",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -2248,6 +2323,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Swarm", 1: "Technician", H: "Light Metal" },
 	},
 	scizormega: {
+		name: "Scizor-Mega",
+		baseSpecies: "Scizor",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -2272,6 +2350,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Swarm", 1: "Guts", H: "Moxie" },
 	},
 	heracrossmega: {
+		name: "Heracross-Mega",
+		baseSpecies: "Heracross",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -2400,6 +2481,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Iron Barbs", 1: "Sturdy", H: "Weak Armor" },
 	},
 	skarmorymega: {
+		name: "Skarmory-Mega",
+		baseSpecies: "Skarmory",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -2424,6 +2508,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Early Bird", 1: "Flash Fire", H: "Unnerve" },
 	},
 	houndoommega: {
+		name: "Houndoom-Mega",
+		baseSpecies: "Houndoom",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -2584,6 +2671,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Sand Stream", 1: "Battle Armor", H: "Unnerve" },
 	},
 	tyranitarmega: {
+		name: "Tyranitar-Mega",
+		baseSpecies: "Tyranitar",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -2640,6 +2730,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Overgrow", 1: "Unburden", H: "Sharpness" },
 	},
 	sceptilemega: {
+		name: "Sceptile-Mega",
+		baseSpecies: "Sceptile",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -2672,6 +2765,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Blaze", 1: "Speed Boost", H: "Reckless" },
 	},
 	blazikenmega: {
+		name: "Blaziken-Mega",
+		baseSpecies: "Blaziken",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -2704,6 +2800,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Torrent", 1: "Soundproof", H: "Damp" },
 	},
 	swampertmega: {
+		name: "Swampert-Mega",
+		baseSpecies: "Swampert",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -2904,6 +3003,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Synchronize", 1: "Trace", H: "Telepathy" },
 	},
 	gardevoirmega: {
+		name: "Gardevoir-Mega",
+		baseSpecies: "Gardevoir",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3072,6 +3174,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Keen Eye", 1: "Stall", H: "Prankster" },
 	},
 	sableyemega: {
+		name: "Sableye-Mega",
+		baseSpecies: "Sableye",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3088,6 +3193,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Hyper Cutter", 1: "Intimidate", H: "Sheer Force" },
 	},
 	mawilemega: {
+		name: "Mawile-Mega",
+		baseSpecies: "Mawile",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3120,6 +3228,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Sturdy", 1: "Rock Head", H: "Heavy Metal" },
 	},
 	aggronmega: {
+		name: "Aggron-Mega",
+		baseSpecies: "Aggron",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3144,6 +3255,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Pure Power", H: "Telepathy" },
 	},
 	medichammega: {
+		name: "Medicham-Mega",
+		baseSpecies: "Medicham",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3168,6 +3282,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Static", 1: "Lightning Rod", H: "Intimidate" },
 	},
 	manectricmega: {
+		name: "Manectric-Mega",
+		baseSpecies: "Manectric",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3248,6 +3365,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Rough Skin", 1: "Speed Boost", H: "Strong Jaw" },
 	},
 	sharpedomega: {
+		name: "Sharpedo-Mega",
+		baseSpecies: "Sharpedo",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3288,6 +3408,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Magma Armor", 1: "Simple", H: "Solid Rock" },
 	},
 	cameruptmega: {
+		name: "Camerupt-Mega",
+		baseSpecies: "Camerupt",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3384,6 +3507,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Natural Cure", H: "Cloud Nine" },
 	},
 	altariamega: {
+		name: "Altaria-Mega",
+		baseSpecies: "Altaria",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3552,6 +3678,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Insomnia", 1: "Prankster", H: "Cursed Body" },
 	},
 	banettemega: {
+		name: "Banette-Mega",
+		baseSpecies: "Banette",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3592,6 +3721,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Levitate" },
 	},
 	chimechomega: {
+		name: "Chimecho-Mega",
+		baseSpecies: "Chimecho",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3608,6 +3740,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Pressure", 1: "Super Luck", H: "Justified" },
 	},
 	absolmega: {
+		name: "Absol-Mega",
+		baseSpecies: "Absol",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3616,6 +3751,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Magic Bounce" },
 	},
 	absolmegaz: {
+		name: "Absol-Mega-Z",
+		baseSpecies: "Absol",
+		forme: "Mega-Z",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3648,6 +3786,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Inner Focus", 1: "Intimidate", H: "Moody" },
 	},
 	glaliemega: {
+		name: "Glalie-Mega",
+		baseSpecies: "Glalie",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3744,6 +3885,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Intimidate", H: "Moxie" },
 	},
 	salamencemega: {
+		name: "Salamence-Mega",
+		baseSpecies: "Salamence",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3776,6 +3920,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Clear Body", 1: "Levitate", H: "Light Metal" },
 	},
 	metagrossmega: {
+		name: "Metagross-Mega",
+		baseSpecies: "Metagross",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3816,6 +3963,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Levitate" },
 	},
 	latiasmega: {
+		name: "Latias-Mega",
+		baseSpecies: "Latias",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3832,6 +3982,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Levitate" },
 	},
 	latiosmega: {
+		name: "Latios-Mega",
+		baseSpecies: "Latios",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -3880,6 +4033,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Air Lock" },
 	},
 	rayquazamega: {
+		name: "Rayquaza-Mega",
+		baseSpecies: "Rayquaza",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -4024,6 +4180,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Intimidate", H: "Reckless" },
 	},
 	staraptormega: {
+		name: "Staraptor-Mega",
+		baseSpecies: "Staraptor",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -4296,6 +4455,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Cute Charm", 1: "Klutz", H: "Limber" },
 	},
 	lopunnymega: {
+		name: "Lopunny-Mega",
+		baseSpecies: "Lopunny",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -4440,6 +4602,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Rough Skin", 1: "Hyper Cutter", H: "Sand Force" },
 	},
 	garchompmega: {
+		name: "Garchomp-Mega",
+		baseSpecies: "Garchomp",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -4448,6 +4613,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Mold Breaker", H: "Sand Force" },
 	},
 	garchompmegaz: {
+		name: "Garchomp-Mega-Z",
+		baseSpecies: "Garchomp",
+		forme: "Mega-Z",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -4480,6 +4648,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Steadfast", 1: "Inner Focus", H: "Justified" },
 	},
 	lucariomega: {
+		name: "Lucario-Mega",
+		baseSpecies: "Lucario",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -4488,6 +4659,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Adaptability" },
 	},
 	lucariomegaz: {
+		name: "Lucario-Mega-Z",
+		baseSpecies: "Lucario",
+		forme: "Mega-Z",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -4592,6 +4766,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Snow Warning", H: "Soundproof" },
 	},
 	abomasnowmega: {
+		name: "Abomasnow-Mega",
+		baseSpecies: "Abomasnow",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -4720,6 +4897,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Steadfast", 1: "Sharpness", H: "Justified" },
 	},
 	gallademega: {
+		name: "Gallade-Mega",
+		baseSpecies: "Gallade",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -4752,6 +4932,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Snow Cloak", 1: "Infiltrator", H: "Cursed Body" },
 	},
 	froslassmega: {
+		name: "Froslass-Mega",
+		baseSpecies: "Froslass",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -4872,6 +5055,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Flash Fire", H: "Flame Body" },
 	},
 	heatranmega: {
+		name: "Heatran-Mega",
+		baseSpecies: "Heatran",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -4936,6 +5122,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Bad Dreams" },
 	},
 	darkraimega: {
+		name: "Darkrai-Mega",
+		baseSpecies: "Darkrai",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -5024,6 +5213,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Blaze", 1: "Mold Breaker", H: "Thick Fat" },
 	},
 	emboarmega: {
+		name: "Emboar-Mega",
+		baseSpecies: "Emboar",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -5280,6 +5472,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Sand Rush", 1: "Mold Breaker", H: "Sand Force" },
 	},
 	excadrillmega: {
+		name: "Excadrill-Mega",
+		baseSpecies: "Excadrill",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -5296,6 +5491,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Regenerator", 1: "Friend Guard", H: "Klutz" },
 	},
 	audinomega: {
+		name: "Audino-Mega",
+		baseSpecies: "Audino",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -5416,6 +5614,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Poison Point", 1: "Speed Boost", H: "Merciless" },
 	},
 	scolipedemega: {
+		name: "Scolipede-Mega",
+		baseSpecies: "Scolipede",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -5592,6 +5793,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Shed Skin", 1: "Moxie", H: "Intimidate" },
 	},
 	scraftymega: {
+		name: "Scrafty-Mega",
+		baseSpecies: "Scrafty",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -5976,6 +6180,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Levitate" },
 	},
 	eelektrossmega: {
+		name: "Eelektross-Mega",
+		baseSpecies: "Eelektross",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -6024,6 +6231,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Flash Fire", 1: "Levitate", H: "Infiltrator" },
 	},
 	chandeluremega: {
+		name: "Chandelure-Mega",
+		baseSpecies: "Chandelure",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -6152,6 +6362,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Iron Fist", 1: "No Guard", H: "Sand Force" },
 	},
 	golurkmega: {
+		name: "Golurk-Mega",
+		baseSpecies: "Golurk",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -6440,6 +6653,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Overgrow", 1: "Bulletproof", H: "Rough Skin" },
 	},
 	chesnaughtmega: {
+		name: "Chesnaught-Mega",
+		baseSpecies: "Chesnaught",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -6472,6 +6688,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Blaze", 1: "Magic Guard", H: "Magician" },
 	},
 	delphoxmega: {
+		name: "Delphox-Mega",
+		baseSpecies: "Delphox",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -6504,6 +6723,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Torrent", 1: "Protean", H: "Infiltrator" },
 	},
 	greninjamega: {
+		name: "Greninja-Mega",
+		baseSpecies: "Greninja",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -6592,6 +6814,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Competitive", 1: "Unnerve", H: "Intimidate" },
 	},
 	pyroarmega: {
+		name: "Pyroar-Mega",
+		baseSpecies: "Pyroar",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -6624,6 +6849,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Flower Veil", 1: "Natural Cure", H: "Symbosis" },
 	},
 	floettemega: {
+		name: "Floette-Mega",
+		baseSpecies: "Floette",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -6704,6 +6932,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Keen Eye", 1: "Infiltrator", H: "Competitive" },
 	},
 	meowsticmega: {
+		name: "Meowstic-Mega",
+		baseSpecies: "Meowstic",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -6784,6 +7015,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Contrary", 1: "Suction Cups", H: "Infiltrator" },
 	},
 	malamarmega: {
+		name: "Malamar-Mega",
+		baseSpecies: "Malamar",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -6808,6 +7042,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Tough Claws", 1: "Sniper", H: "Pickpocket" },
 	},
 	barbaraclemega: {
+		name: "Barbaracle-Mega",
+		baseSpecies: "Barbaracle",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -6832,6 +7069,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Poison Point", 1: "Regenerator", H: "Adaptability" },
 	},
 	dragalgemega: {
+		name: "Dragalge-Mega",
+		baseSpecies: "Dragalge",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -6920,6 +7160,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Mold Breaker", 1: "Unburden", H: "Limber" },
 	},
 	hawluchamega: {
+		name: "Hawlucha-Mega",
+		baseSpecies: "Hawlucha",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -7136,6 +7379,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Aura Break" },
 	},
 	zygardemega: {
+		name: "Zygarde-Mega",
+		baseSpecies: "Zygarde",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -7152,6 +7398,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Clear Body" },
 	},
 	dianciemega: {
+		name: "Diancie-Mega",
+		baseSpecies: "Diancie",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -7360,6 +7609,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Hyper Cutter", 1: "Iron Fist", H: "Slush Rush" },
 	},
 	crabominablemega: {
+		name: "Crabominable-Mega",
+		baseSpecies: "Crabominable",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -7664,6 +7916,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Emergency Exit", H: "Shell Armor" },
 	},
 	golisopodmega: {
+		name: "Golisopod-Mega",
+		baseSpecies: "Golisopod",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -7784,6 +8039,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Beserk", 1: "Sap Sipper", H: "Cloud Nine" },
 	},
 	drampamega: {
+		name: "Drampa-Mega",
+		baseSpecies: "Drampa",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -7992,6 +8250,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Soul-Heart" },
 	},
 	magearnamega: {
+		name: "Magearna-Mega",
+		baseSpecies: "Magearna",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -8048,6 +8309,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		abilities: { 0: "Volt Absorb" },
 	},
 	zeraoramega: {
+		name: "Zeraora-Mega",
+		baseSpecies: "Zeraora",
+		forme: "Mega",
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
