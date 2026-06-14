@@ -414,7 +414,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		isNonstandard: null,
 		gen: 7,
 		baseStats: { hp: 81, atk: 112, def: 80, spa: 105, spd: 75, spe: 97 },
-		types: ["Poision", "Ground"],
+		types: ["Poison", "Ground"],
 		abilities: { 0: "Poison Point", 1: "Sheer Force", H: "Merciless" },
 	},
 	clefairy: {
