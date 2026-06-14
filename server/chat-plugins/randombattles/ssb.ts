@@ -1,4 +1,4 @@
-import {SSBSet, ssbSets} from "../../../data/mods/gen9ssb/random-teams";
+const ssbSets: any = {};
 import {Utils} from "../../../lib";
 import {formatNature, STAT_NAMES} from ".";
 

@@ -14,17 +14,17 @@ export const Scripts: ModdedBattleScriptsData = {
 		for (const i in this.data.Pokedex) {
 			const species = this.data.Pokedex[i];
 			if (species.forme && (species.forme.startsWith('Galar') || species.forme.startsWith('Hisui') || species.forme.startsWith('Paldea'))) {
-				this.modData('Learnsets', i).learnset.return = ['7M'];
-				this.modData('Learnsets', i).learnset.frustration = ['7M'];
-				this.modData('Learnsets', i).learnset.toxic = ['7M'];
-				this.modData('Learnsets', i).learnset.hiddenpower = ['7M'];
+				if (!this.data.Learnsets[i]) this.data.Learnsets[i] = { learnset: {} };
+				const learnset = this.modData('Learnsets', i).learnset;
+				learnset.return = ['7M'];
+				learnset.frustration = ['7M'];
+				learnset.toxic = ['7M'];
+				learnset.hiddenpower = ['7M'];
 			}
 		}
 
 		for (const i in this.data.Moves) {
-			if (this.data.Moves[i].pp > 20) {
-				this.modData('Moves', i).pp = 20;
-			}
+			this.modData('Moves', i).noPPBoosts = true;
 		}
 
 		for (const id in this.data.Learnsets) {
