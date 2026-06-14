@@ -4,6 +4,6 @@ export const Formats: import('../../../sim/dex-formats').FormatData[] = [
 		desc: `Custom Gen 7 format with additional Mega Evolutions and features.`,
 		mod: 'gen7mod',
 		ruleset: ['Standard', 'Mega Rayquaza Clause', 'Z-Move Clause'],
-		banlist: ['Uber', 'Arena Trap', 'Power Construct', 'Shadow Tag', 'Baton Pass'],
+		banlist: ['Arena Trap', 'Power Construct', 'Shadow Tag', 'Baton Pass'],
 	},
 ];
