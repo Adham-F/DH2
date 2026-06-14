@@ -1,5 +1,3 @@
-import { Formats as BadNBoosted} from '../data/mods/badnboosted/formats';
-
 export const Formats: FormatList = [
 		///////////////////////////////////////////////////////////////
 	////////////////// Offical Smogon Formats /////////////////////
