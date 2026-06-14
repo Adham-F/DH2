@@ -2,7 +2,7 @@ export const Scripts: ModdedBattleScriptsData = {
 	inherit: 'gen7',
 	init() {
 		for (const i in this.data.Moves) {
-			this.modData('Moves', i).noPPBoosts = true;
+			this.data.Moves[i].noPPBoosts = true
 		}
 
 		for (const id in this.data.Learnsets) {
