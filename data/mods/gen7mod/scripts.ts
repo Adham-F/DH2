@@ -58,12 +58,12 @@ export const Scripts: ModdedBattleScriptsData = {
 
 		if (!this.data.Learnsets['zygardemega']) {
 			this.data.Learnsets['zygardemega'] = {learnset: {}};
-			const baseLearnset = this.dex.learnsets.get('zygarde').learnset;
+			const baseLearnset = this.modData('Learnsets', 'zygarde').learnset;
 			if (baseLearnset) Object.assign(this.data.Learnsets['zygardemega'].learnset, baseLearnset);
 		}
 		if (!this.data.Learnsets['hoopamega']) {
 			this.data.Learnsets['hoopamega'] = {learnset: {}};
-			const baseLearnset = this.dex.learnsets.get('hoopa').learnset;
+			const baseLearnset = this.modData('Learnsets', 'hoopa').learnset;
 			if (baseLearnset) Object.assign(this.data.Learnsets['hoopamega'].learnset, baseLearnset);
 		}
 	},
