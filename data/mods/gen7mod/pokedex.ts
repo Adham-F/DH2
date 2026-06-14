@@ -9502,7 +9502,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		gen: 7,
 		num: -1060,
 		name: "Hoopa-Mega",
-		baseSpecies: "Hoopa-Unbound",
+		baseSpecies: "Hoopa",
 		forme: "Mega",
 		types: ["Psychic", "Dark"],
 		baseStats: { hp: 80, atk: 180, def: 90, spa: 190, spd: 140, spe: 100 },

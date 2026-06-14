@@ -31,8 +31,9 @@ export const Scripts: ModdedBattleScriptsData = {
 
 		for (const id in this.data.Pokedex) {
 			const species = this.data.Pokedex[id];
-			if (species.num >= 810 || species.id === 'meltan' || species.id === 'melmetal') {
-				if (species.eggGroups[0] === 'Undiscovered') {
+			const isNewRegional = ['Galar', 'Hisui', 'Paldea'].includes(species.forme || '');
+			if (species.num >= 810 || species.id === 'meltan' || species.id === 'melmetal' || isNewRegional) {
+				if (species.eggGroups && species.eggGroups[0] === 'Undiscovered') {
 					this.modData('Pokedex', id).eggGroups = ['Amorphous'];
 				}
 				if (!this.data.Learnsets[id]?.learnset) continue;
@@ -53,6 +54,17 @@ export const Scripts: ModdedBattleScriptsData = {
 				if (!learnset.hiddenpower) learnset.hiddenpower = [];
 				if (!learnset.hiddenpower.includes('7M')) learnset.hiddenpower.push('7M');
 			}
+		}
+
+		if (!this.data.Learnsets['zygardemega']) {
+			this.data.Learnsets['zygardemega'] = {learnset: {}};
+			const baseLearnset = this.dex.learnsets.get('zygarde').learnset;
+			if (baseLearnset) Object.assign(this.data.Learnsets['zygardemega'].learnset, baseLearnset);
+		}
+		if (!this.data.Learnsets['hoopamega']) {
+			this.data.Learnsets['hoopamega'] = {learnset: {}};
+			const baseLearnset = this.dex.learnsets.get('hoopa').learnset;
+			if (baseLearnset) Object.assign(this.data.Learnsets['hoopamega'].learnset, baseLearnset);
 		}
 	},
 	calculatePP(move, ppUps) {
