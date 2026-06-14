@@ -996,7 +996,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 				move: move.name,
 				id: move.id,
 				pp: 5,
-				maxpp: move.pp * 8 / 5,
+				maxpp: Math.floor(move.pp * 8 / 5),
 				disabled: false,
 				used: false,
 				virtual: true,

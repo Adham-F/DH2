@@ -3743,6 +3743,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	absol: {
 		inherit: true,
+		otherFormes: ["Absol-Mega", "Absol-Mega-Z"],
+		formeOrder: ["Absol", "Absol-Mega", "Absol-Mega-Z"],
 		isNonstandard: null,
 		gen: 7,
 		baseStats: { hp: 65, atk: 130, def: 60, spa: 95, spd: 60, spe: 95 },
@@ -4607,6 +4609,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	garchomp: {
 		inherit: true,
+		otherFormes: ["Garchomp-Mega", "Garchomp-Mega-Z"],
+		formeOrder: ["Garchomp", "Garchomp-Mega", "Garchomp-Mega-Z"],
 		isNonstandard: null,
 		gen: 7,
 		baseStats: { hp: 108, atk: 130, def: 95, spa: 80, spd: 85, spe: 102 },
@@ -4654,6 +4658,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	lucario: {
 		inherit: true,
+		otherFormes: ["Lucario-Mega", "Lucario-Mega-Z"],
+		formeOrder: ["Lucario", "Lucario-Mega", "Lucario-Mega-Z"],
 		isNonstandard: null,
 		gen: 7,
 		baseStats: { hp: 70, atk: 110, def: 70, spa: 115, spd: 70, spe: 90 },
@@ -4939,6 +4945,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	froslass: {
 		inherit: true,
+		otherFormes: ["Froslass-Mega-Z"],
+		formeOrder: ["Froslass", "Froslass-Mega-Z"],
 		isNonstandard: null,
 		gen: 7,
 		baseStats: { hp: 80, atk: 100, def: 70, spa: 100, spd: 70, spe: 120 },
@@ -6742,6 +6750,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	greninja: {
 		inherit: true,
+		otherFormes: ["Greninja-Ash", "Greninja-Mega-Z"],
+		formeOrder: ["Greninja", "Greninja-Ash", "Greninja-Mega-Z"],
 		isNonstandard: null,
 		gen: 7,
 		baseStats: { hp: 72, atk: 100, def: 67, spa: 103, spd: 71, spe: 122 },
@@ -7037,6 +7047,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	malamar: {
 		inherit: true,
+		otherFormes: ["Malamar-Mega-Z"],
+		formeOrder: ["Malamar", "Malamar-Mega-Z"],
 		isNonstandard: null,
 		gen: 7,
 		baseStats: { hp: 86, atk: 92, def: 88, spa: 68, spd: 75, spe: 73 },
@@ -7185,6 +7197,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	hawlucha: {
 		inherit: true,
+		otherFormes: ["Hawlucha-Mega-Z"],
+		formeOrder: ["Hawlucha", "Hawlucha-Mega-Z"],
 		isNonstandard: null,
 		gen: 7,
 		baseStats: { hp: 78, atk: 92, def: 75, spa: 74, spd: 63, spe: 118 },
@@ -7425,6 +7439,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	diancie: {
 		inherit: true,
+		otherFormes: ["Diancie-Mega", "Diancie-Mega-Z"],
+		formeOrder: ["Diancie", "Diancie-Mega", "Diancie-Mega-Z"],
 		isNonstandard: null,
 		gen: 7,
 		baseStats: { hp: 50, atk: 100, def: 150, spa: 100, spd: 150, spe: 50 },
