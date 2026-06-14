@@ -1,6 +1,5 @@
 export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	bodypress: { inherit: true, isNonstandard: null },
-	ceaselessedge: { inherit: true, isNonstandard: null },
 	pestingimpact: {
 		isNonstandard: null,
 		name: "Pesting Impact",

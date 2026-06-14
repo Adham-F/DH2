@@ -8135,7 +8135,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		types: ["Normal", "Ground"],
 		abilities: { 0: "Scrappy" },
 	},
-	basculegionmale: {
+	basculegionm: {
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
@@ -8143,7 +8143,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		types: ["Water", "Ghost"],
 		abilities: { 0: "Swift Swim", 1: "Adaptability", H: "Mold Breaker" },
 	},
-	basculegionfemale: {
+	basculegionf: {
 		inherit: true,
 		isNonstandard: null,
 		gen: 7,
