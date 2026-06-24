@@ -237,7 +237,7 @@ out_ts = "export const Learnsets: import('../../../sim/dex-species').ModdedLearn
 for mon in sorted(mon_moves.keys()):
     if not mon_moves[mon]:
         continue
-    out_ts += f"\t{mon}: {{\n\t\tlearnset: {{\n"
+    out_ts += f"\t{mon}: {{\n\t\tinherit: true,\n\t\tlearnset: {{\n"
     for move in sorted(mon_moves[mon]):
         out_ts += f"\t\t\t{move}: [\"7M\"],\n"
     out_ts += "\t\t},\n\t},\n"

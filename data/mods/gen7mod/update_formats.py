@@ -24,9 +24,17 @@ ou_list = [
 ]
 
 uber_list = [
-    "ironbundle", "hoopamega", "dianciemegaz", "gengarmega", "gothitellemega",
-    "lucariomega", "lucariomegaz", "metagrossmega", "salamencemega", "starmiemega",
-    "blazikenmega"
+    "mewtwo", "mewtwomegax", "mewtwomegay", "lugia", "hooh", "kyogre", "kyogreprimal", 
+    "groudon", "groudonprimal", "rayquaza", "rayquazamega", "deoxys", "deoxysattack", "deoxysdefense", 
+    "dialga", "palkia", "giratina", "giratinaorigin", "shayminsky", "arceus", "arceusbug", 
+    "arceusdark", "arceusdragon", "arceuselectric", "arceusfairy", "arceusfighting", "arceusfire", 
+    "arceusflying", "arceusghost", "arceusgrass", "arceusground", "arceusice", "arceuspoison", 
+    "arceuspsychic", "arceusrock", "arceussteel", "arceuswater", "reshiram", "zekrom", "landorus", 
+    "kyuremwhite", "genesect", "genesectburn", "genesectchill", "genesectdouse", "genesectshock", 
+    "xerneas", "yveltal", "zygarde", "zygardecomplete", "lunala", "pheromosa", 
+    "necrozmaduskmane", "necrozmadawnwings", "necrozmaultra", "marshadow", "naganadel", 
+    "gengarmega", "kangaskhanmega", "blazikenmega", "salamencemega", "metagrossmega", "lucariomega", 
+    "ironbundle", "hoopamega", "dianciemegaz", "gothitellemega", "starmiemega", "lucariomegaz"
 ]
 
 def get_base_form(mon):
