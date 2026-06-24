@@ -6960,7 +6960,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		gen: 7,
 		baseStats: { hp: 74, atk: 48, def: 76, spa: 83, spd: 81, spe: 104 },
 		types: ["Psychic"],
-		abilities: { 0: "Keen Eye", 1: "Infiltrator", H: "Pranskter" },
+		abilities: { 0: "Keen Eye", 1: "Infiltrator", H: "Prankster" },
 	},
 	meowsticf: {
 		inherit: true,
@@ -8088,7 +8088,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		gen: 7,
 		baseStats: { hp: 108, atk: 60, def: 85, spa: 135, spd: 91, spe: 36 },
 		types: ["Normal", "Dragon"],
-		abilities: { 0: "Beserk", 1: "Sap Sipper", H: "Cloud Nine" },
+		abilities: { 0: "Berserk", 1: "Sap Sipper", H: "Cloud Nine" },
 	},
 	drampamega: {
 		name: "Drampa-Mega",
