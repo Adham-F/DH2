@@ -2,12 +2,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	abomasnow: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			icehammer: ["7M"],
 		},
 	},
 	absol: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			phantomforce: ["7M"],
 			shadowsneak: ["7M"],
 		},
@@ -15,18 +17,21 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	aegislash: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			zenheadbutt: ["7M"],
 		},
 	},
 	aggron: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			scorchingsands: ["7M"],
 		},
 	},
 	alakazam: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			allyswitch: ["7M"],
 			attract: ["7M"],
 			bodyslam: ["7M"],
@@ -92,12 +97,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	altaria: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			petaldance: ["7M"],
 		},
 	},
 	amoonguss: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			dazzlinggleam: ["7M"],
 			firstimpression: ["7M"],
 			toxicspikes: ["7M"],
@@ -106,12 +113,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	ampharos: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			flashcannon: ["7M"],
 		},
 	},
 	annihilape: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			knockoff: ["7M"],
 			roar: ["7M"],
 		},
@@ -119,6 +128,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	arbok: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			acidspray: ["7M"],
 			beatup: ["7M"],
 			belch: ["7M"],
@@ -194,6 +204,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	arcanine: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			aerialace: ["7M"],
 			agility: ["7M"],
 			bite: ["7M"],
@@ -256,6 +267,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	arcaninehisui: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			aerialace: ["7M"],
 			agility: ["7M"],
 			bite: ["7M"],
@@ -325,12 +337,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	ariados: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			firstimpression: ["7M"],
 		},
 	},
 	aromatisse: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			healblock: ["7M"],
 			hypnosis: ["7M"],
 		},
@@ -338,24 +352,28 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	audino: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			triattack: ["7M"],
 		},
 	},
 	aurorus: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			icehammer: ["7M"],
 		},
 	},
 	avalugghisui: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			hydropump: ["7M"],
 		},
 	},
 	banette: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			healblock: ["7M"],
 			iciclespear: ["7M"],
 			slash: ["7M"],
@@ -366,6 +384,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	barbaracle: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			closecombat: ["7M"],
 			waterfall: ["7M"],
 		},
@@ -373,6 +392,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	beedrill: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			acrobatics: ["7M"],
 			aerialace: ["7M"],
 			agility: ["7M"],
@@ -431,6 +451,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	blastoise: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			aquajet: ["7M"],
 			aquaring: ["7M"],
 			aquatail: ["7M"],
@@ -509,6 +530,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	blaziken: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			circlethrow: ["7M"],
 			drainpunch: ["7M"],
 		},
@@ -516,12 +538,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	carbink: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			selfdestruct: ["7M"],
 		},
 	},
 	chandelure: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			flamewheel: ["7M"],
 			healblock: ["7M"],
 		},
@@ -529,6 +553,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	charizard: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			acrobatics: ["7M"],
 			aerialace: ["7M"],
 			aircutter: ["7M"],
@@ -606,6 +631,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	chesnaught: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			growth: ["7M"],
 			solarblade: ["7M"],
 		},
@@ -613,6 +639,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	chimecho: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			amnesia: ["7M"],
 			boomburst: ["7M"],
 			flashcannon: ["7M"],
@@ -623,6 +650,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	clefable: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			afteryou: ["7M"],
 			airslash: ["7M"],
 			alluringvoice: ["7M"],
@@ -720,6 +748,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	cofagrigus: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			icywind: ["7M"],
 			partingshot: ["7M"],
 			psyshock: ["7M"],
@@ -730,6 +759,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	crabominable: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			firstimpression: ["7M"],
 			iciclespear: ["7M"],
 			machpunch: ["7M"],
@@ -739,6 +769,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	crobat: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			knockoff: ["7M"],
 			nightslash: ["7M"],
 			psychicfangs: ["7M"],
@@ -747,6 +778,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	darkrai: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			crunch: ["7M"],
 			futuresight: ["7M"],
 			iciclespear: ["7M"],
@@ -757,30 +789,35 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	dedenne: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			fakeout: ["7M"],
 		},
 	},
 	delphox: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			chargebeam: ["7M"],
 		},
 	},
 	diggersby: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			drainpunch: ["7M"],
 		},
 	},
 	dragalge: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			poisonjab: ["7M"],
 		},
 	},
 	dragonite: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			vacuumwave: ["7M"],
 			whirlwind: ["7M"],
 		},
@@ -788,6 +825,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	drampa: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			bodyslam: ["7M"],
 			chargebeam: ["7M"],
 			earthpower: ["7M"],
@@ -798,6 +836,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	eelektross: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			poisonfang: ["7M"],
 			psychicfangs: ["7M"],
 			waterfall: ["7M"],
@@ -806,6 +845,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	emboar: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			flamewheel: ["7M"],
 			solarblade: ["7M"],
 			vacuumwave: ["7M"],
@@ -814,6 +854,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	espeon: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			healblock: ["7M"],
 			safeguard: ["7M"],
 		},
@@ -821,6 +862,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	excadrill: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			agility: ["7M"],
 			megahorn: ["7M"],
 		},
@@ -828,18 +870,21 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	farfetchd: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			trailblaze: ["7M"],
 		},
 	},
 	feraligatr: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			iciclespear: ["7M"],
 		},
 	},
 	flareon: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			flamewheel: ["7M"],
 			swordsdance: ["7M"],
 			taunt: ["7M"],
@@ -848,6 +893,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	floetteeternal: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			drainingkiss: ["7M"],
 			hyperbeam: ["7M"],
 			lightscreen: ["7M"],
@@ -857,6 +903,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	froslass: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			healblock: ["7M"],
 			nastyplot: ["7M"],
 			phantomforce: ["7M"],
@@ -865,6 +912,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	furfrou: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			crunch: ["7M"],
 			doubleedge: ["7M"],
 			endure: ["7M"],
@@ -877,6 +925,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	garbodor: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			bulletseed: ["7M"],
 			healblock: ["7M"],
 			poisonjab: ["7M"],
@@ -885,6 +934,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	garchomp: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			nastyplot: ["7M"],
 			vacuumwave: ["7M"],
 		},
@@ -892,6 +942,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	genesect: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			ancientpower: ["7M"],
 			lunge: ["7M"],
 			shadowball: ["7M"],
@@ -900,24 +951,28 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	gengar: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			shadowsneak: ["7M"],
 		},
 	},
 	gholdengo: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			surf: ["7M"],
 		},
 	},
 	glaceon: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			taunt: ["7M"],
 		},
 	},
 	gogoat: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			megahorn: ["7M"],
 			solarblade: ["7M"],
 		},
@@ -925,6 +980,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	golisopod: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			agility: ["7M"],
 			gunkshot: ["7M"],
 			nightslash: ["7M"],
@@ -934,18 +990,21 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	golurk: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			ironhead: ["7M"],
 		},
 	},
 	goodra: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			gigadrain: ["7M"],
 		},
 	},
 	goodrahisui: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			ancientpower: ["7M"],
 			irondefense: ["7M"],
 		},
@@ -953,6 +1012,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	gourgeist: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			firespin: ["7M"],
 			hypnosis: ["7M"],
 			selfdestruct: ["7M"],
@@ -962,6 +1022,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	greninja: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			flipturn: ["7M"],
 			nastyplot: ["7M"],
 			psyshock: ["7M"],
@@ -971,36 +1032,42 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	groudon: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			powergem: ["7M"],
 		},
 	},
 	grumpig: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			hypnosis: ["7M"],
 		},
 	},
 	gyarados: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			dragonrush: ["7M"],
 		},
 	},
 	hawlucha: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			airslash: ["7M"],
 		},
 	},
 	heatran: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			firstimpression: ["7M"],
 		},
 	},
 	heliolisk: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			morningsun: ["7M"],
 			seedbomb: ["7M"],
 			shedtail: ["7M"],
@@ -1009,6 +1076,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	heracross: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			circlethrow: ["7M"],
 			outrage: ["7M"],
 		},
@@ -1016,6 +1084,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	hoopa: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			healblock: ["7M"],
 			psychicfangs: ["7M"],
 		},
@@ -1023,6 +1092,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	kecleon: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			conversion: ["7M"],
 			conversion2: ["7M"],
 			firstimpression: ["7M"],
@@ -1035,6 +1105,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	keldeo: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			earthpower: ["7M"],
 			icebeam: ["7M"],
 			lightscreen: ["7M"],
@@ -1047,24 +1118,28 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	klefki: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			futuresight: ["7M"],
 		},
 	},
 	krookodile: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			ironhead: ["7M"],
 		},
 	},
 	kyogre: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			iciclespear: ["7M"],
 		},
 	},
 	latios: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			wish: ["7M"],
 			workup: ["7M"],
 		},
@@ -1072,12 +1147,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	leafeon: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			taunt: ["7M"],
 		},
 	},
 	liepard: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			agility: ["7M"],
 			crunch: ["7M"],
 			firefang: ["7M"],
@@ -1093,6 +1170,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	lopunny: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			cottonguard: ["7M"],
 			drainingkiss: ["7M"],
 			dynamicpunch: ["7M"],
@@ -1103,6 +1181,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	machamp: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			assurance: ["7M"],
 			attract: ["7M"],
 			bodyslam: ["7M"],
@@ -1174,6 +1253,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	magearna: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			powergem: ["7M"],
 			solarblade: ["7M"],
 			vacuumwave: ["7M"],
@@ -1182,6 +1262,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	malamar: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			bulkup: ["7M"],
 			closecombat: ["7M"],
 			healblock: ["7M"],
@@ -1194,6 +1275,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	manectric: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			flamecharge: ["7M"],
 			trailblaze: ["7M"],
 		},
@@ -1201,6 +1283,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	marowakalola: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			ancientpower: ["7M"],
 			curse: ["7M"],
 			fissure: ["7M"],
@@ -1211,6 +1294,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	marshadow: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			machpunch: ["7M"],
 			poweruppunch: ["7M"],
 			vacuumwave: ["7M"],
@@ -1219,12 +1303,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	mawile: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			dazzlinggleam: ["7M"],
 		},
 	},
 	medicham: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			agility: ["7M"],
 			blazekick: ["7M"],
 		},
@@ -1232,6 +1318,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	meganium: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			dazzlinggleam: ["7M"],
 			earthpower: ["7M"],
 			leafblade: ["7M"],
@@ -1240,6 +1327,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	meloetta: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			agility: ["7M"],
 			flipturn: ["7M"],
 			powergem: ["7M"],
@@ -1248,6 +1336,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	meowstic: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			healblock: ["7M"],
 			moonblast: ["7M"],
 			spikes: ["7M"],
@@ -1262,6 +1351,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	meowsticf: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			earthpower: ["7M"],
 			moonblast: ["7M"],
 			teleport: ["7M"],
@@ -1272,6 +1362,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	mewtwo: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			discharge: ["7M"],
 			vacuumwave: ["7M"],
 		},
@@ -1279,6 +1370,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	milotic: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			calmmind: ["7M"],
 			dazzlinggleam: ["7M"],
 			liquidation: ["7M"],
@@ -1287,12 +1379,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	mimikyu: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			nightslash: ["7M"],
 		},
 	},
 	mrmime: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			firstimpression: ["7M"],
 			haze: ["7M"],
 			playrough: ["7M"],
@@ -1303,6 +1397,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	mrrime: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			chargebeam: ["7M"],
 			firstimpression: ["7M"],
 			haze: ["7M"],
@@ -1315,12 +1410,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	musharna: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			triattack: ["7M"],
 		},
 	},
 	ninetales: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			agility: ["7M"],
 			attract: ["7M"],
 			babydolleyes: ["7M"],
@@ -1393,6 +1490,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	ninetalesalola: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			agility: ["7M"],
 			attract: ["7M"],
 			auroraveil: ["7M"],
@@ -1462,12 +1560,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	noivern: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			scaleshot: ["7M"],
 		},
 	},
 	overqwil: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			mortalspin: ["7M"],
 			thunderwave: ["7M"],
 		},
@@ -1475,6 +1575,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	palossand: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			darkpulse: ["7M"],
 			fakeout: ["7M"],
 			nastyplot: ["7M"],
@@ -1484,12 +1585,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	pangoro: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			gigadrain: ["7M"],
 		},
 	},
 	perrserker: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			bulkup: ["7M"],
 			hypnosis: ["7M"],
 			liquidation: ["7M"],
@@ -1501,12 +1604,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	persian: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			spikes: ["7M"],
 		},
 	},
 	persianalola: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			spikes: ["7M"],
 			toxicspikes: ["7M"],
 		},
@@ -1514,6 +1619,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	pidgeot: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			aerialace: ["7M"],
 			agility: ["7M"],
 			airslash: ["7M"],
@@ -1550,6 +1656,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	pikachu: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			agility: ["7M"],
 			alluringvoice: ["7M"],
 			bodyslam: ["7M"],
@@ -1615,6 +1722,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	pinsir: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			aerialace: ["7M"],
 			circlethrow: ["7M"],
 			dualwingbeat: ["7M"],
@@ -1624,6 +1732,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	porygonz: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			flashcannon: ["7M"],
 			voltswitch: ["7M"],
 		},
@@ -1631,12 +1740,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	pyroar: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			earthpower: ["7M"],
 		},
 	},
 	raichu: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			agility: ["7M"],
 			alluringvoice: ["7M"],
 			bodyslam: ["7M"],
@@ -1708,6 +1819,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	raichualola: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			agility: ["7M"],
 			alluringvoice: ["7M"],
 			bodyslam: ["7M"],
@@ -1787,6 +1899,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	rayquaza: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			dragonrush: ["7M"],
 			whirlwind: ["7M"],
 		},
@@ -1794,12 +1907,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	roserade: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			mortalspin: ["7M"],
 		},
 	},
 	rotom: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			agility: ["7M"],
 			curse: ["7M"],
 			taunt: ["7M"],
@@ -1808,6 +1923,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	runerigus: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			gigadrain: ["7M"],
 			icywind: ["7M"],
 			infestation: ["7M"],
@@ -1820,6 +1936,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	sableye: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			healblock: ["7M"],
 			nightslash: ["7M"],
 			partingshot: ["7M"],
@@ -1829,6 +1946,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	salamence: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			flamecharge: ["7M"],
 			scaleshot: ["7M"],
 		},
@@ -1836,6 +1954,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	sawk: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			blazekick: ["7M"],
 			bodyslam: ["7M"],
 			drainpunch: ["7M"],
@@ -1850,12 +1969,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	sceptile: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			dragonrush: ["7M"],
 		},
 	},
 	scolipede: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			firstimpression: ["7M"],
 			gunkshot: ["7M"],
 			mortalspin: ["7M"],
@@ -1866,6 +1987,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	scrafty: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			dynamicpunch: ["7M"],
 			partingshot: ["7M"],
 		},
@@ -1873,12 +1995,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	seviper: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			scaleshot: ["7M"],
 		},
 	},
 	simipour: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			endure: ["7M"],
 			fakeout: ["7M"],
 			flipturn: ["7M"],
@@ -1888,6 +2012,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	simisage: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			drainpunch: ["7M"],
 			endure: ["7M"],
 			fakeout: ["7M"],
@@ -1898,6 +2023,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	simisear: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			blazekick: ["7M"],
 			endure: ["7M"],
 			fakeout: ["7M"],
@@ -1908,6 +2034,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	sirfetchd: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			agility: ["7M"],
 			irontail: ["7M"],
 			uturn: ["7M"],
@@ -1916,12 +2043,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	skarmory: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			scaleshot: ["7M"],
 		},
 	},
 	slowbro: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			amnesia: ["7M"],
 			ancientpower: ["7M"],
 			avalanche: ["7M"],
@@ -1953,6 +2082,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	slowbrogalar: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			ancientpower: ["7M"],
 			firepunch: ["7M"],
 			healblock: ["7M"],
@@ -1963,6 +2093,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	slowking: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			ancientpower: ["7M"],
 			healblock: ["7M"],
 		},
@@ -1970,12 +2101,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	slowkinggalar: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			ancientpower: ["7M"],
 		},
 	},
 	slurpuff: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			selfdestruct: ["7M"],
 			swordsdance: ["7M"],
 		},
@@ -1983,6 +2116,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	staraptor: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			blazekick: ["7M"],
 			brickbreak: ["7M"],
 			bulkup: ["7M"],
@@ -1994,6 +2128,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	starmie: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			ancientpower: ["7M"],
 			aquajet: ["7M"],
 			bulkup: ["7M"],
@@ -2009,6 +2144,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	stunfisk: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			crunch: ["7M"],
 			flashcannon: ["7M"],
 			icefang: ["7M"],
@@ -2018,12 +2154,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	stunfiskgalar: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			toxic: ["7M"],
 		},
 	},
 	swampert: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			fissure: ["7M"],
 			sludgebomb: ["7M"],
 		},
@@ -2031,12 +2169,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	sylveon: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			taunt: ["7M"],
 		},
 	},
 	talonflame: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			blazekick: ["7M"],
 			flamewheel: ["7M"],
 			skyattack: ["7M"],
@@ -2046,6 +2186,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	terrakion: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			headsmash: ["7M"],
 			heavyslam: ["7M"],
 		},
@@ -2053,6 +2194,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	thievul: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			fakeout: ["7M"],
 			firstimpression: ["7M"],
 			icywind: ["7M"],
@@ -2064,6 +2206,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	throh: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			amnesia: ["7M"],
 			closecombat: ["7M"],
 			dynamicpunch: ["7M"],
@@ -2078,18 +2221,21 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	toxtricity: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			zapcannon: ["7M"],
 		},
 	},
 	trevenant: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			healblock: ["7M"],
 		},
 	},
 	tyranitar: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			scaleshot: ["7M"],
 			scorchingsands: ["7M"],
 		},
@@ -2097,18 +2243,21 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	umbreon: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			knockoff: ["7M"],
 		},
 	},
 	vaporeon: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			taunt: ["7M"],
 		},
 	},
 	venusaur: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			acidspray: ["7M"],
 			amnesia: ["7M"],
 			bodyslam: ["7M"],
@@ -2171,6 +2320,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	victreebel: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			acidspray: ["7M"],
 			bodyslam: ["7M"],
 			bugbite: ["7M"],
@@ -2235,6 +2385,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	vileplume: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			acidspray: ["7M"],
 			afteryou: ["7M"],
 			attract: ["7M"],
@@ -2294,6 +2445,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	virizion: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			hornleech: ["7M"],
 			irondefense: ["7M"],
 			poisonjab: ["7M"],
@@ -2303,6 +2455,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	vivillon: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			dazzlinggleam: ["7M"],
 			whirlwind: ["7M"],
 		},
@@ -2310,6 +2463,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	watchog: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			doubleedge: ["7M"],
 			endure: ["7M"],
 		},
@@ -2317,6 +2471,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	wigglytuff: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			fakeout: ["7M"],
 			moonblast: ["7M"],
 		},
@@ -2324,6 +2479,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	xerneas: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			seedbomb: ["7M"],
 			solarblade: ["7M"],
 			trailblaze: ["7M"],
@@ -2332,6 +2488,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	yveltal: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			healblock: ["7M"],
 			vacuumwave: ["7M"],
 		},
@@ -2339,12 +2496,14 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	zangoose: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			fakeout: ["7M"],
 		},
 	},
 	zeraora: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			dynamicpunch: ["7M"],
 			vacuumwave: ["7M"],
 		},
@@ -2352,6 +2511,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	zygarde: {
 		inherit: true,
 		learnset: {
+		inherit: true,
 			ironhead: ["7M"],
 			psychicfangs: ["7M"],
 		},
